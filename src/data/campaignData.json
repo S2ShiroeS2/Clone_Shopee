@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "id": 104387,
+      "start": 1603299600,
+      "end": 1605373140,
+      "banner_image": "https://cf.shopee.vn/file/e147155a22672fb7196505dccbe2bd6f",
+      "url": "https://shopee.vn/m/khung-gio-san-sale?smtt=210.104387",
+      "title": {
+        "en": "Khung Giờ Săn Sale",
+        "default": "Khung Giờ Săn Sale",
+        "vi": "Khung Giờ Săn Sale"
+      }
+    },
+    {
+      "id": 107910,
+      "start": 1605027600,
+      "end": 1605113940,
+      "banner_image": "https://cf.shopee.vn/file/01cf884c27418424f6748245cd601416",
+      "url": "https://shopee.vn/hangquocte?smtt=210.107910",
+      "title": {
+        "en": "Global Deals",
+        "default": "Global Deals",
+        "vi": "Hàng Quốc Tế"
+      }
+    },
+    {
+      "id": 107917,
+      "start": 1605027600,
+      "end": 1605113940,
+      "banner_image": "https://cf.shopee.vn/file/6a574d8298eed44c1062a5f1408e4c2b",
+      "url": "http://shopee.vn/freeshipxtra?smtt=210.107917",
+      "title": {
+        "en": "Freeship Xtra",
+        "default": "Freeship Xtra",
+        "vi": "Freeship Xtra"
+      }
+    },
+    {
+      "id": 107924,
+      "start": 1604941200,
+      "end": 1605113940,
+      "banner_image": "https://cf.shopee.vn/file/4c9ae87a7c44a42546b2bb9a48a2faad",
+      "url": "https://shopee.vn/beauty-club?smtt=210.107924",
+      "title": {
+        "en": "Beauty Club - Quà 1 Triệu",
+        "default": "Beauty Club - Quà 1 Triệu",
+        "vi": "Beauty Club - Quà 1 Triệu"
+      }
+    },
+    {
+      "id": 103931,
+      "start": 1602694800,
+      "end": 1605459540,
+      "banner_image": "https://cf.shopee.vn/file/21a4856d1fecd4eda143748661315dba",
+      "url": "https://shopee.vn/m/shopee-cashback?smtt=210.103931",
+      "title": {
+        "en": "Coin Cashback",
+        "default": "Coin Cashback",
+        "vi": "Hoàn Xu Đơn Bất Kỳ"
+      }
+    },
+    {
+      "id": 104408,
+      "start": 1603299600,
+      "end": 1605459540,
+      "banner_image": "https://cf.shopee.vn/file/0a3e3aa16b083d6b7e2c25a8f2c16731",
+      "url": "https://shopee.vn/m/shopee-premium?smtt=210.104408",
+      "title": {
+        "en": "Shopee Premium",
+        "default": "Shopee Premium",
+        "vi": "Shopee Premium"
+      }
+    },
+    {
+      "id": 99993,
+      "start": 1600966800,
+      "end": 1605459540,
+      "banner_image": "https://cf.shopee.vn/file/c47aab87fbe390b96963d7045672d95c",
+      "url": "https://shopee.vn/m/tram-ty-uu-dai?smtt=210.99993",
+      "title": {
+        "en": "Brand Discount",
+        "default": "Brand Discount",
+        "vi": "Brand Discount"
+      }
+    },
+    {
+      "id": 107931,
+      "start": 1605027600,
+      "end": 1605113940,
+      "banner_image": "https://cf.shopee.vn/file/dc48ca525b74aa80d82064602f79ff2b",
+      "url": "https://shopee.vn/m/mum-club?smtt=210.107931",
+      "title": {
+        "en": "Mum's Club - Mẹ Thông Thái",
+        "default": "Mum's Club - Mẹ Thông Thái",
+        "vi": "Mum's Club - Mẹ Thông Thái"
+      }
+    },
+    {
+      "id": 101795,
+      "start": 1602349200,
+      "end": 1605459540,
+      "banner_image": "https://cf.shopee.vn/file/c360d75f1605e54f07c2b30100755722",
+      "url": "https://shopee.vn/m/san-sieu-sale?smtt=210.101795",
+      "title": {
+        "en": "Săn Siêu Sale",
+        "default": "Săn Siêu Sale",
+        "vi": "Săn Siêu Sale"
+      }
+    },
+    {
+      "id": 107933,
+      "start": 1604854800,
+      "end": 1605459540,
+      "banner_image": "https://cf.shopee.vn/file/4e32311e7d872547962d1867d39c9027",
+      "url": "https://shopee.vn/m/shopee-tech-zone?smtt=210.107933",
+      "title": {
+        "en": "Tech Zone - Siêu Thị Điện Tử",
+        "default": "Tech Zone - Siêu Thị Điện Tử",
+        "vi": "Tech Zone - Siêu Thị Điện Tử"
+      }
+    }
+  ]
+}

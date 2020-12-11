@@ -1,0 +1,97 @@
+.image-carousel {
+    &__item {
+        height: 100%;
+        flex-grow: 1;
+        align-self: center;
+        overflow-x: hidden;
+        list-style: none;
+        float: left;
+        padding: 0;
+        width: 20%;
+        &>div {
+            height: 100%;
+        }
+        .collection-card {
+            box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
+            border-radius: 0.125rem;
+            overflow: hidden;
+            background-color: #fff;
+            position: relative;
+            &:hover {
+                box-shadow: 0 0.0625rem 20px 0 rgba(0, 0, 0, 0.05);
+                -webkit-transform: translateY(-0.0625rem);
+                transform: translateY(-0.0625rem);
+                z-index: 1;
+                border-radius: 0.125rem;
+                overflow: hidden;
+                background-color: #fff;
+                position: relative;
+            }
+            &__link {
+                text-decoration: none;
+                color: rgba(0, 0, 0, 0.8);
+                display: block;
+            }
+            &__image {
+                width: 198px;
+                margin: 0 auto;
+            }
+            &__image-cover-background {
+                background-size: 100%;
+                background-repeat: no-repeat;
+                width: 100%;
+                padding-top: 100%;
+                position: relative;
+                .image-main {
+                    background-position: 50%;
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    bottom: 0;
+                    right: 0;
+                }
+            }
+            &__title {
+                -webkit-box-pack: center;
+                -webkit-justify-content: center;
+                -moz-box-pack: center;
+                -ms-flex-pack: center;
+                justify-content: center;
+                text-align: center;
+                text-overflow: ellipsis;
+                overflow: hidden;
+                padding: 0 0.9375rem;
+                white-space: nowrap;
+                margin-top: 0.625rem;
+                margin-bottom: 0.625rem;
+                line-height: 1.25rem;
+                height: 1.25rem;
+                font-size: 1.125rem;
+            }
+            &__price {
+                -webkit-box-pack: center;
+                -webkit-justify-content: center;
+                -moz-box-pack: center;
+                -ms-flex-pack: center;
+                justify-content: center;
+                text-align: center;
+                text-overflow: ellipsis;
+                overflow: hidden;
+                padding: 0 0.9375rem;
+                white-space: nowrap;
+                display: block;
+                margin-bottom: 1.5625rem;
+                color: #ee4d2d;
+                font-size: 1rem;
+                span {
+                    color: rgba(0, 0, 0, 0.26);
+                    font-weight: 400;
+                    margin-right: 5px;
+                    text-transform: capitalize;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,118 @@
+{
+  "banners": [
+    {
+      "id": 111833,
+      "banner_image": "https://cf.shopee.vn/file/e3ce11c7946b6ded481a11a6e1c5306a"
+    },
+    {
+      "id": 111855,
+      "banner_image": "https://cf.shopee.vn/file/fc493c2e15a658f0b34498269513e749"
+    },
+    {
+      "id": 111858,
+      "banner_image": "https://cf.shopee.vn/file/4f5dbe36ec7a2d5ad58ebabcaba80cb4"
+    },
+    {
+      "id": 111912,
+      "banner_image": "https://cf.shopee.vn/file/3a346a5031893470c3b5cb29e8391ff5"
+    },
+    {
+      "id": 111421,
+      "banner_image": "https://cf.shopee.vn/file/09e82189f9901b2fd0d4be9d6e1bda1e"
+    },
+    {
+      "id": 111668,
+      "banner_image": "https://cf.shopee.vn/file/a771a2167f924c087d5ac8187dc8ccf4"
+    },
+    {
+      "id": 111876,
+      "banner_image": "https://cf.shopee.vn/file/df93b1e1bbbc95b0744b55653397b18f"
+    },
+    {
+      "id": 111936,
+      "banner_image": "https://cf.shopee.vn/file/1ee41a976e6f2dd7960c555a785a604c"
+    },
+    {
+      "id": 111861,
+      "banner_image": "https://cf.shopee.vn/file/67d932ed103c127981519d4cf7d008ee"
+    },
+    {
+      "id": 111787,
+      "banner_image": "https://cf.shopee.vn/file/317f35a7838663c15b72ba673b5d31bc"
+    },
+    {
+      "id": 111834,
+      "banner_image": "https://cf.shopee.vn/file/9187ddefe82601650b19e8b0b03b03b0"
+    },
+    {
+      "id": 111945,
+      "banner_image": "https://cf.shopee.vn/file/70b17f0fdb2b5c925eb5b1a251ac1e86"
+    },
+    {
+      "id": 111682,
+      "banner_image": "https://cf.shopee.vn/file/4c41161880f8055e808bca3b7f9ff137"
+    },
+    {
+      "id": 111837,
+      "banner_image": "https://cf.shopee.vn/file/c7b8d81fb4cab3e9942db74c116b40a1"
+    },
+    {
+      "id": 111441,
+      "banner_image": "https://cf.shopee.vn/file/df648d781e6c6b9d276d60c256b10609"
+    },
+    {
+      "id": 111742,
+      "banner_image": "https://cf.shopee.vn/file/65967e83370551a00a11437a906682a1"
+    }
+  ],
+  "largeBanner": [
+    {
+      "id": 111481,
+      "banner": "https://cf.shopee.vn/file/69271e275ab6808fc297b3d74e9f1b41"
+    },
+    {
+      "id": 111482,
+      "banner": "https://cf.shopee.vn/file/bcdf6da828f91eb55460b1ea632bbb6f"
+    },
+    {
+      "id": 111483,
+      "banner": "https://cf.shopee.vn/file/b8fc6faba8df8e3b489d500957c90ba8"
+    },
+    {
+      "id": 111484,
+      "banner": "https://cf.shopee.vn/file/fa56d64be02e7bda965fb4dc8fdc2256"
+    },
+    {
+      "id": 111485,
+      "banner": "https://cf.shopee.vn/file/d2c010f53425a778ab5798f7033739bf"
+    },
+    {
+      "id": 111489,
+      "banner": "https://cf.shopee.vn/file/f071d5eaee4563217899be6c6d81ec12"
+    },
+    {
+      "id": 111681,
+      "banner": "https://cf.shopee.vn/file/5b4bd7ba06d7877cf8ccfa5e8518a3a3"
+    },
+    {
+      "id": 111487,
+      "banner": "https://cf.shopee.vn/file/3c105a583415f6bd7c3ed68577660832"
+    },
+    {
+      "id": 93291,
+      "banner": "https://cf.shopee.vn/file/cee5d3efffa59a1f7627e4111ff9f138"
+    },
+    {
+      "id": 111488,
+      "banner": "https://cf.shopee.vn/file/84075dbe622807f2608a4054d41e682e"
+    },
+    {
+      "id": 111490,
+      "banner": "https://cf.shopee.vn/file/66db7aa9dfb4d6966e0142df208bd73d"
+    },
+    {
+      "id": 111950,
+      "banner": "https://cf.shopee.vn/file/cc9ca3f53b97b59c37e0210eae53e21e"
+    }
+  ]
+}

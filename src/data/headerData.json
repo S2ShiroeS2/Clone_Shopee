@@ -1,0 +1,55 @@
+{
+  "vn": {
+    "top": {
+      "left": {
+        "chanelSale": "Kênh Người Bán",
+        "downloadApp": "Tải ứng dụng",
+        "connect": "Kết nối"
+      },
+      "right": {
+        "notification": "Thông báo",
+        "help": "Trợ giúp",
+        "login": "Đăng nhập",
+        "register": "Đăng ký",
+        "titleNotification": "Đăng nhập để xem Thông báo"
+      }
+    },
+    "bottom": {
+      "suggest": [
+        {
+          "id": 1,
+          "keyword": "Sandal Nữ"
+        },
+        {
+          "id": 2,
+          "keyword": "Hoodie Nam"
+        },
+        {
+          "id": 3,
+          "keyword": "Dép Nam"
+        },
+        {
+          "id": 4,
+          "keyword": "Balo Nữ"
+        },
+        {
+          "id": 5,
+          "keyword": "Áo Nữ"
+        },
+        {
+          "id": 6,
+          "keyword": "Quần Nam"
+        },
+        {
+          "id": 7,
+          "keyword": "Quần Nữ"
+        },
+        {
+          "id": 8,
+          "keyword": "Tất Nữ"
+        }
+      ],
+      "placeholder": "Giảm đến 50%"
+    }
+  }
+}

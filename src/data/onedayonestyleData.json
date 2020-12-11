@@ -1,0 +1,51 @@
+{
+    "onedayonestyle_data": {
+        "heading": {
+            "title": "MỖI NGÀY MỘT PHONG CÁCH",
+            "seemore": "Xem thêm",
+            "seemore__href": "#"
+        },
+        "content": {
+            "items": [{
+                    "id": 1,
+                    "url_img": "https://cf.shopee.vn/file/1cdd022111c228234353e24e6623d380",
+                    "title": "Street style",
+                    "price": 100000000,
+                    "href": "#"
+                },
+                {
+                    "id": 2,
+                    "url_img": "https://cf.shopee.vn/file/7cc90e66b8e9c789172131444a42d90d",
+                    "title": "Floral style",
+                    "price": 990000000,
+                    "href": "#"
+                },
+                {
+                    "id": 3,
+                    "url_img": "https://cf.shopee.vn/file/9af3f7211ed5cd45c745bb1b08d0e4ec",
+                    "title": "Office style",
+                    "price": 200000000,
+                    "href": "#"
+                },
+                {
+                    "id": 4,
+                    "url_img": "https://cf.shopee.vn/file/a7f9b4bd7b152edfcbea7b51de1bf2a3",
+                    "title": "Unisex style",
+                    "price": 200000000,
+                    "href": "#"
+                },
+                {
+                    "id": 5,
+                    "url_img": "https://cf.shopee.vn/file/b6c70e19bd864c978f77f4930374c2fd",
+                    "title": "Casual style",
+                    "price": 100000000,
+                    "href": "#"
+                }
+            ],
+            "seemore": {
+                "href": "#",
+                "text": "Xem thêm"
+            }
+        }
+    }
+}

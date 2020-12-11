@@ -1,0 +1,73 @@
+@mixin flexbox(
+  $align: flex-start,
+  $justify: flex-start,
+  $wrap: nowrap,
+  $dir: row
+) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  flex-wrap: $wrap;
+  flex-direction: $dir;
+}
+
+.search-trend {
+  &__wrapper {
+    padding-top: 1.25rem;
+  }
+
+  &__header {
+    background: #fff;
+    height: 3.75rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    padding: 0 1.25rem;
+    @include flexbox(center);
+    &--title {
+      font-size: 1rem;
+      color: rgba(0, 0, 0, 0.54);
+      font-weight: 500;
+      text-transform: uppercase;
+      -webkit-box-flex: 1;
+      -webkit-flex: 1;
+      -moz-box-flex: 1;
+      -ms-flex: 1;
+      flex: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-right: 1.25rem;
+    }
+    &--link {
+      text-decoration: none;
+      color: rgba(0, 0, 0, 0.8);
+      display: block;
+      .btn-outline {
+        padding: 0.3125rem 0.4375rem;
+        color: #ee4d2d;
+        background-color: transparent;
+        border: none;
+        @include flexbox(center);
+        text-transform: capitalize;
+        outline: none;
+        cursor: pointer;
+        font-size: 0.955rem;
+        font-weight: 300;
+        line-height: 1;
+        letter-spacing: 0;
+        i.fa {
+          font-size: 0.955rem;
+          font-weight: 100;
+          padding-right: 2px;
+        }
+      }
+    }
+  }
+  &__content {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    background-color: #fff;
+  }
+}

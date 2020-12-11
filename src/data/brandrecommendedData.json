@@ -1,0 +1,31 @@
+{
+    "listSale": [{
+            "collection_id": 455565,
+            "collection_title": "VỀ ÁO THUN",
+            "image": "https://cf.shopee.vn/file/d1b6d1c1ccfa9ae04f3ee671764608ef",
+            "price": 3000000000,
+            "url": "#"
+        },
+        {
+            "collection_id": 455566,
+            "collection_title": "VỀ ĐỒ UNISEX",
+            "image": "https://cf.shopee.vn/file/6aad2d3b4cf2fc775b18335cf2258c2e",
+            "price": 9900000000,
+            "url": "#"
+        },
+        {
+            "collection_id": 455567,
+            "collection_title": "VỀ PHỤ KIỆN",
+            "image": "https://cf.shopee.vn/file/d13d590a5df0d3eeea70722c70952da4",
+            "price": 3500000000,
+            "url": "#"
+        },
+        {
+            "collection_id": 455568,
+            "collection_title": "VỀ ĐỒ THU ĐÔNG",
+            "image": "https://cf.shopee.vn/file/6e0bf27021cf59258604162099419820",
+            "price": 2900000000,
+            "url": "#"
+        }
+    ]
+}

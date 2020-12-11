@@ -1,0 +1,118 @@
+* {
+    font-size: 1rem;
+    color: #222;
+}
+
+body {
+    font-family: Helvetica;
+}
+
+.label {
+    width: fit-content;
+    height: fit-content;
+    line-height: .75rem;
+    font-size: .75rem;
+    vertical-align: middle;
+    text-align: center;
+    margin-right: 10px;
+    border-radius: 2px;
+    background-color: #ee4d2d;
+    padding: .1875rem .25rem;
+    text-transform: capitalize;
+    color: #fff;
+    font-weight: 500;
+}
+
+.footer {
+    margin-top: 30px;
+    padding: 25px 20px;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.mp-container {
+    margin-top: 25px;
+    padding: 0 20px;
+    position: relative;
+}
+
+.name {
+    font-weight: 500;
+    font-size: 1.25rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 41.5625rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.center {
+    align-items: center;
+}
+
+.flex-item {
+    flex-grow: 1;
+}
+
+.r-border {
+    border-right: 1px solid rgba(0, 0, 0, .14);
+}
+
+.p-15 {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.p-20 {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.pr-15 {
+    padding-right: 15px;
+}
+
+.marginright-5 {
+    margin-right: 5px;
+}
+
+.margin-5 {
+    margin: 0 5px;
+}
+
+.marginleft-10 {
+    margin-left: 10px;
+}
+
+.marginright-15 {
+    margin-right: 15px;
+}
+
+.margin0-10 {
+    margin: 0 10px;
+}
+
+.margintop-10 {
+    margin-top: 10px;
+}
+
+.margintop-5 {
+    margin-top: 5px;
+}
+
+.margintop-15 {
+    margin-top: 15px;
+}
+
+.title {
+    color: #757575;
+    width: 110px;
+    text-transform: capitalize;
+    flex-shrink: 0;
+    align-items: center;
+}
+
+.mr {
+    margin-right: 3px;
+}

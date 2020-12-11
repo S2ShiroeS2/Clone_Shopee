@@ -1,0 +1,27 @@
+{
+  "tier_variations": [
+    {
+      "images": [],
+      "name": "Màu",
+      "options": [
+        "Đen",
+        "Trắng",
+        "Đỏ",
+        "Xanh Than",
+        "Xám đậm",
+        "Cam",
+        "Vàng Be",
+        "Xanh Rêu"
+      ],
+      "properties": [],
+      "type": 0
+    },
+    {
+      "images": [],
+      "name": "Kích cỡ",
+      "options": ["M (45 - 60Kg)", "L (58 - 72 Kg)", "XL (68 - 82Kg)"],
+      "properties": [],
+      "type": 0
+    }
+  ]
+}

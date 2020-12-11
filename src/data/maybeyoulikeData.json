@@ -1,0 +1,554 @@
+{
+    "maybeyoulike": {
+        "header": {
+            "title": "Có thể bạn cũng thích",
+            "seemore": "Xem tất cả",
+            "url": "#"
+        },
+        "content": {
+            "items": [
+                {
+                    "id": 3449466799,
+                    "id_shop": 21244515,
+                    "name_product": "Giày thể thao nữ dáng cơ bản 3 màu siêu trend chữ ký Jinai",
+                    "image": "https://cf.shopee.vn/file/1d53fff385e269747afdc667517c1a54_tn",
+                    "rating": {
+                        "rating_start": 4.8,
+                        "rating_count": [
+                            1919,
+                            7,
+                            6,
+                            43,
+                            119,
+                            1744
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/1d53fff385e269747afdc667517c1a54",
+                        "https://cf.shopee.vn/file/45eafca09fa3b3279af8f9c126d1e801",
+                        "https://cf.shopee.vn/file/a26b959e089f42a4cd8b17408e1488d3",
+                        "https://cf.shopee.vn/file/2d66ad38d22d01b47dae2df17a4f04ea",
+                        "https://cf.shopee.vn/file/8281730511dd2cc5005384af507eb339",
+                        "https://cf.shopee.vn/file/79e25e41f1dd13ecde125d90806d822f",
+                        "https://cf.shopee.vn/file/880fcd64981683a2f7d0cbe92a8d094c",
+                        "https://cf.shopee.vn/file/0e6657f7d36a2c2a551f181678a7a76b"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/(Video-th%E1%BA%ADt)-Gi%C3%A0y-th%E1%BB%83-thao-n%E1%BB%AF-d%C3%A1ng-c%C6%A1-b%E1%BA%A3n-3-m%C3%A0u-si%C3%AAu-trend-ch%E1%BB%AF-k%C3%BD-Jinai-i.21244515.3449466799",
+                    "price_before_discount": 17000000000,
+                    "discount": "50%",
+                    "cmt_count": 1919,
+                    "view_count": 195530,
+                    "category_id": 161,
+                    "liked_count": 6309,
+                    "price_min": 8500000000,
+                    "sold": 2531,
+                    "stock": 19370,
+                    "brand": "No brand",
+                    "price_max": 9500000000,
+                    "price": 8500000000,
+                    "shop_location": "Hà Nội",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Màu",
+                            "option": [
+                                "Tím",
+                                "Trắng Xanh",
+                                "Đen"
+                            ]
+                        },
+                        {
+                            "image": null,
+                            "title": "Size",
+                            "option": [
+                                "35",
+                                "36",
+                                "37",
+                                "38",
+                                "39",
+                                "40"
+                            ]
+                        }
+                    ],
+                    "createAt": 1598596638,
+                    "historical_sold": 4402,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 3651512598,
+                    "id_shop": 74804504,
+                    "name_product": "Túi Đựng Bút Trong Suốt In Họa Tiết Dễ Thương",
+                    "image": "https://cf.shopee.vn/file/a83e65d09629893d3423a4372cf6a61c_tn",
+                    "rating": {
+                        "rating_start": 4.9,
+                        "rating_count": [
+                            664,
+                            4,
+                            4,
+                            11,
+                            13,
+                            632
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/a83e65d09629893d3423a4372cf6a61c",
+                        "https://cf.shopee.vn/file/140dce36cd134306e8df42dbfec4d85c",
+                        "https://cf.shopee.vn/file/40c59f2c818474f4d8bd1dcfdf1e3fed",
+                        "https://cf.shopee.vn/file/fd45f7ba0c05fa378d89026021c007a8",
+                        "https://cf.shopee.vn/file/f0daf42b95a2a9345b27d4390e621c74",
+                        "https://cf.shopee.vn/file/119b17a12d00d9058bfba067f3762a59",
+                        "https://cf.shopee.vn/file/49f21dc78d69560944958391ab034dd8",
+                        "https://cf.shopee.vn/file/98d770689c14f35d6f326eea097851d9",
+                        "https://cf.shopee.vn/file/03bac327f677a467c68d8b146fff98d3"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/T%C3%BAi-%C4%90%E1%BB%B1ng-B%C3%BAt-Trong-Su%E1%BB%91t-In-H%E1%BB%8Da-Ti%E1%BA%BFt-D%E1%BB%85-Th%C6%B0%C6%A1ng-i.74804504.3651512598",
+                    "price_before_discount": 780000000,
+                    "discount": "23%",
+                    "cmt_count": 664,
+                    "view_count": 133839,
+                    "category_id": 10256,
+                    "liked_count": 2057,
+                    "price_min": 600000000,
+                    "sold": 2466,
+                    "stock": 446585,
+                    "brand": "No brand",
+                    "price_max": 3000000000,
+                    "price": 600000000,
+                    "shop_location": "Quốc Tế",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Color",
+                            "option": [
+                                "Love Bear",
+                                "Cute Lamb",
+                                "Cute Smiley",
+                                "Three Little Rabbits",
+                                "Colored Flowers",
+                                "Cloud Rainbow",
+                                "Cartoon Bag-Bear",
+                                "Cartoon Bag-Hamster",
+                                "Cartoon Bag-Rabbit"
+                            ]
+                        }
+                    ],
+                    "createAt": 1599538239,
+                    "historical_sold": 1998,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 7448873424,
+                    "id_shop": 3441354,
+                    "name_product": "Dép Quai Ngang Nữ Đế Bánh Mì Trơn Phong Cách Hàn Quốc Đế Cao 4p",
+                    "image": "https://cf.shopee.vn/file/339061d4837f253b321854a950bbfae2_tn",
+                    "rating": {
+                        "rating_start": 4.7,
+                        "rating_count": [
+                            545,
+                            11,
+                            6,
+                            14,
+                            32,
+                            482
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/339061d4837f253b321854a950bbfae2",
+                        "https://cf.shopee.vn/file/a88d4541ec0f46bd7bb97dc31ec3b3ea",
+                        "https://cf.shopee.vn/file/872c1fde6367b5aba256e605d372f8cc",
+                        "https://cf.shopee.vn/file/65272645d8e2a123784d4960cbd20a87",
+                        "https://cf.shopee.vn/file/9eb917f465fa3df53d3d84c441f4e225",
+                        "https://cf.shopee.vn/file/7830e209f2c4d2396609fd36a77ee91a",
+                        "https://cf.shopee.vn/file/2f0fb89d20ca7573df4632fbd573788d",
+                        "https://cf.shopee.vn/file/980cab805c733154bed8f6b21003abf6",
+                        "https://cf.shopee.vn/file/b77ef439f40b810efe291157217600ae"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/D%C3%A9p-Quai-Ngang-N%E1%BB%AF-%C4%90%E1%BA%BF-B%C3%A1nh-M%C3%AC-Tr%C6%A1n-Phong-C%C3%A1ch-H%C3%A0n-Qu%E1%BB%91c-%C4%90%E1%BA%BF-Cao-4p-i.3441354.7448873424",
+                    "price_before_discount": 0,
+                    "discount": null,
+                    "cmt_count": 545,
+                    "view_count": 200478,
+                    "category_id": 161,
+                    "liked_count": 1454,
+                    "price_min": 2900000000,
+                    "sold": 2009,
+                    "stock": 15173,
+                    "brand": "No brand",
+                    "price_max": 4900000000,
+                    "price": 2900000000,
+                    "shop_location": "TP. Hồ Chí Minh",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Màu Sắc",
+                            "option": [
+                                "vàng",
+                                "cam",
+                                "đen",
+                                "hồng"
+                            ]
+                        },
+                        {
+                            "image": null,
+                            "title": "Size",
+                            "option": [
+                                "35",
+                                "36",
+                                "37",
+                                "38",
+                                "39",
+                                "40"
+                            ]
+                        }
+                    ],
+                    "createAt": 1598412981,
+                    "historical_sold": 2598,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 6356897247,
+                    "id_shop": 225940345,
+                    "name_product": "🍀FREE SHIP🍀Dép Đi Trong Nhà Siêu Xinh ,Êm Ái nhiều màu",
+                    "image": "https://cf.shopee.vn/file/682c573906bab2056ac854c66949dc35_tn",
+                    "rating": {
+                        "rating_start": 4.9,
+                        "rating_count": [
+                            93,
+                            1,
+                            0,
+                            1,
+                            0,
+                            91
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/682c573906bab2056ac854c66949dc35",
+                        "https://cf.shopee.vn/file/7ab61068d453ea8f793ad1b052a7521b",
+                        "https://cf.shopee.vn/file/9f1924cc92ef35a5ab8bc5f6884587d6",
+                        "https://cf.shopee.vn/file/a5e35ff2de527fd6440c700751d2c790",
+                        "https://cf.shopee.vn/file/5db28c75a20305531eff9549d77e7d5d",
+                        "https://cf.shopee.vn/file/849e8c897172b236d353b66b77c9e125",
+                        "https://cf.shopee.vn/file/dd0d88382f2f7eee983aab862a6f1415",
+                        "https://cf.shopee.vn/file/3b4685dc8af035453bc3989da45c5fa7",
+                        "https://cf.shopee.vn/file/5df1516c1adf9ac27649b85a35e05461"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/%F0%9F%8D%80FREE-SHIP%F0%9F%8D%80D%C3%A9p-%C4%90i-Trong-Nh%C3%A0-Si%C3%AAu-Xinh-%C3%8Am-%C3%81i-nhi%E1%BB%81u-m%C3%A0u-i.225940345.6356897247",
+                    "price_before_discount": 0,
+                    "discount": null,
+                    "cmt_count": 93,
+                    "view_count": 38583,
+                    "category_id": 161,
+                    "liked_count": 294,
+                    "price_min": 3900000000,
+                    "sold": 671,
+                    "stock": 958,
+                    "brand": "No brand",
+                    "price_max": 3900000000,
+                    "price": 3900000000,
+                    "shop_location": "Hà Nội",
+                    "tier_variations": [
+                        {
+                            "image": null,
+                            "title": "Màu",
+                            "option": [
+                                "đỏ",
+                                "xanh",
+                                "hồng",
+                                "đen"
+                            ]
+                        },
+                        {
+                            "image": null,
+                            "title": "size",
+                            "option": [
+                                "36 37",
+                                "38 39"
+                            ]
+                        }
+                    ],
+                    "createAt": 1602559333,
+                    "historical_sold": 221,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 6415930862,
+                    "id_shop": 221976224,
+                    "name_product": "Đệm ngồi bệt, nệm lót ghế 40x40cm có dây buộc",
+                    "image": "https://cf.shopee.vn/file/48a38702370d5629a287289ab597c638_tn",
+                    "rating": {
+                        "rating_start": 4.9,
+                        "rating_count": [
+                            967,
+                            2,
+                            7,
+                            9,
+                            44,
+                            905
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/48a38702370d5629a287289ab597c638",
+                        "https://cf.shopee.vn/file/0cba8e089401f0fd998c57817f7d75aa",
+                        "https://cf.shopee.vn/file/93a516c55c86b34619fcad2de453edb8",
+                        "https://cf.shopee.vn/file/f08b659f94906d63d21f3943dc72f598",
+                        "https://cf.shopee.vn/file/5468f629bca6b3f58858ea5b05ca9d49",
+                        "https://cf.shopee.vn/file/f17a18120da723b67db9a3270c134a19",
+                        "https://cf.shopee.vn/file/d00002c1a1f34cdaabcd664ce69efc59",
+                        "https://cf.shopee.vn/file/27898751a64b0d15e43e9830cd1e6a53",
+                        "https://cf.shopee.vn/file/d76cc6fd287c58a228e6bfbd36c92f54",
+                        "https://cf.shopee.vn/file/c82f06d2a465d630a53d3d1fc9715d3c",
+                        "https://cf.shopee.vn/file/14ec135b8db5660e53e541a7fb1fa854"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/%C4%90%E1%BB%87m-ng%E1%BB%93i-b%E1%BB%87t-n%E1%BB%87m-l%C3%B3t-gh%E1%BA%BF-40x40cm-c%C3%B3-d%C3%A2y-bu%E1%BB%99c-i.221976224.6415930862",
+                    "price_before_discount": 0,
+                    "discount": null,
+                    "cmt_count": 967,
+                    "view_count": 55074,
+                    "category_id": 87,
+                    "liked_count": 642,
+                    "price_min": 3300000000,
+                    "sold": 2972,
+                    "stock": 6810,
+                    "brand": "No brand",
+                    "price_max": 3300000000,
+                    "price": 3300000000,
+                    "shop_location": "Hà Nội",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Màu sắc",
+                            "option": [
+                                "Hồng",
+                                "Ghi",
+                                "Tím Huế",
+                                "Xanh lam",
+                                "Cam",
+                                "Xanh chuối",
+                                "Nâu"
+                            ]
+                        }
+                    ],
+                    "createAt": 1580107268,
+                    "historical_sold": 6085,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 3341169376,
+                    "id_shop": 267472017,
+                    "name_product": "Xà Phòng Cám Gạo ⚜️FREESHIP⚜️ Xà Phòng Trắng Da Thái Lan Jam Rice Milk Soap",
+                    "image": "https://cf.shopee.vn/file/6615607786340d1e810349e5f9894972",
+                    "rating": {
+                        "rating_start": 4.9,
+                        "rating_count": [
+                            132,
+                            1,
+                            1,
+                            1,
+                            3,
+                            126
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/6615607786340d1e810349e5f9894972",
+                        "https://cf.shopee.vn/file/19a0d741f0448bbcca6430ec1d272e85",
+                        "https://cf.shopee.vn/file/fca13fe8a7d0f87b6d91d1ca14fe7cbf",
+                        "https://cf.shopee.vn/file/f08b659f94906d63d21f3943dc72f598",
+                        "https://cf.shopee.vn/file/894b7f372d75a87b141bca9e50f5af3a",
+                        "https://cf.shopee.vn/file/510820e80730ad9c30731f24823853a9",
+                        "https://cf.shopee.vn/file/d00002c1a1f34cdaabcd664ce69efc59",
+                        "https://cf.shopee.vn/file/41618396208b0376fb1b92c2e365c10a"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/8a852c1d39ccc928c5fdde29a8d7bcea",
+                    "url": "https://shopee.vn/X%C3%A0-Ph%C3%B2ng-C%C3%A1m-G%E1%BA%A1o-%E2%9A%9C%EF%B8%8FFREESHIP%E2%9A%9C%EF%B8%8F-X%C3%A0-Ph%C3%B2ng-Tr%E1%BA%AFng-Da-Th%C3%A1i-Lan-Jam-Rice-Milk-Soap-i.267472017.3341169376",
+                    "price_before_discount": 0,
+                    "discount": null,
+                    "cmt_count": 132,
+                    "view_count": 119268,
+                    "category_id": 160,
+                    "liked_count": 4800,
+                    "price_min": 285000000,
+                    "sold": 1453,
+                    "stock": 38757,
+                    "brand": "No brand",
+                    "price_max": 735000000,
+                    "price": 285000000,
+                    "shop_location": "Hà Nội",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Phân loại",
+                            "option": [
+                                "Xà phòng",
+                                "Mặt nạ môi Bioaqua"
+                            ]
+                        }
+                    ],
+                    "createAt": 1594030675,
+                    "historical_sold": 1845,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 344946679,
+                    "id_shop": 21244515,
+                    "name_product": "Giày thể thao nữ dáng cơ bản 3 màu siêu trend chữ ký Jinai",
+                    "image": "https://cf.shopee.vn/file/1d53fff385e269747afdc667517c1a54_tn",
+                    "rating": {
+                        "rating_start": 4.8,
+                        "rating_count": [
+                            1919,
+                            7,
+                            6,
+                            43,
+                            119,
+                            1744
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/1d53fff385e269747afdc667517c1a54",
+                        "https://cf.shopee.vn/file/45eafca09fa3b3279af8f9c126d1e801",
+                        "https://cf.shopee.vn/file/a26b959e089f42a4cd8b17408e1488d3",
+                        "https://cf.shopee.vn/file/2d66ad38d22d01b47dae2df17a4f04ea",
+                        "https://cf.shopee.vn/file/8281730511dd2cc5005384af507eb339",
+                        "https://cf.shopee.vn/file/79e25e41f1dd13ecde125d90806d822f",
+                        "https://cf.shopee.vn/file/880fcd64981683a2f7d0cbe92a8d094c",
+                        "https://cf.shopee.vn/file/0e6657f7d36a2c2a551f181678a7a76b"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/(Video-th%E1%BA%ADt)-Gi%C3%A0y-th%E1%BB%83-thao-n%E1%BB%AF-d%C3%A1ng-c%C6%A1-b%E1%BA%A3n-3-m%C3%A0u-si%C3%AAu-trend-ch%E1%BB%AF-k%C3%BD-Jinai-i.21244515.344946679",
+                    "price_before_discount": 17000000000,
+                    "discount": "50%",
+                    "cmt_count": 1919,
+                    "view_count": 195530,
+                    "category_id": 161,
+                    "liked_count": 6309,
+                    "price_min": 8500000000,
+                    "sold": 2531,
+                    "stock": 19370,
+                    "brand": "No brand",
+                    "price_max": 9500000000,
+                    "price": 8500000000,
+                    "shop_location": "Hà Nội",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Màu",
+                            "option": [
+                                "Tím",
+                                "Trắng Xanh",
+                                "Đen"
+                            ]
+                        },
+                        {
+                            "image": null,
+                            "title": "Size",
+                            "option": [
+                                "35",
+                                "36",
+                                "37",
+                                "38",
+                                "39",
+                                "40"
+                            ]
+                        }
+                    ],
+                    "createAt": 1598596638,
+                    "historical_sold": 4402,
+                    "currency_unit": "₫"
+                },
+                {
+                    "id": 365512598,
+                    "id_shop": 74804504,
+                    "name_product": "Túi Đựng Bút Trong Suốt In Họa Tiết Dễ Thương",
+                    "image": "https://cf.shopee.vn/file/a83e65d09629893d3423a4372cf6a61c_tn",
+                    "rating": {
+                        "rating_start": 4.9,
+                        "rating_count": [
+                            664,
+                            4,
+                            4,
+                            11,
+                            13,
+                            632
+                        ]
+                    },
+                    "images": [
+                        "https://cf.shopee.vn/file/a83e65d09629893d3423a4372cf6a61c",
+                        "https://cf.shopee.vn/file/140dce36cd134306e8df42dbfec4d85c",
+                        "https://cf.shopee.vn/file/40c59f2c818474f4d8bd1dcfdf1e3fed",
+                        "https://cf.shopee.vn/file/fd45f7ba0c05fa378d89026021c007a8",
+                        "https://cf.shopee.vn/file/f0daf42b95a2a9345b27d4390e621c74",
+                        "https://cf.shopee.vn/file/119b17a12d00d9058bfba067f3762a59",
+                        "https://cf.shopee.vn/file/49f21dc78d69560944958391ab034dd8",
+                        "https://cf.shopee.vn/file/98d770689c14f35d6f326eea097851d9",
+                        "https://cf.shopee.vn/file/03bac327f677a467c68d8b146fff98d3"
+                    ],
+                    "overlay": "https://cf.shopee.vn/file/27c399e1c1553cd8b0ae919996642a4e",
+                    "url": "https://shopee.vn/T%C3%BAi-%C4%90%E1%BB%B1ng-B%C3%BAt-Trong-Su%E1%BB%91t-In-H%E1%BB%8Da-Ti%E1%BA%BFt-D%E1%BB%85-Th%C6%B0%C6%A1ng-i.74804504.3651512598",
+                    "price_before_discount": 780000000,
+                    "discount": "23%",
+                    "cmt_count": 664,
+                    "view_count": 133839,
+                    "category_id": 10256,
+                    "liked_count": 2057,
+                    "price_min": 600000000,
+                    "sold": 2466,
+                    "stock": 446585,
+                    "brand": "No brand",
+                    "price_max": 3000000000,
+                    "price": 600000000,
+                    "shop_location": "Quốc Tế",
+                    "tier_variations": [
+                        {
+                            "image": [
+                                "e5e22e1d0e0490b6001c67d8aceec59e",
+                                "41618396208b0376fb1b92c2e365c10a"
+                            ],
+                            "title": "Color",
+                            "option": [
+                                "Love Bear",
+                                "Cute Lamb",
+                                "Cute Smiley",
+                                "Three Little Rabbits",
+                                "Colored Flowers",
+                                "Cloud Rainbow",
+                                "Cartoon Bag-Bear",
+                                "Cartoon Bag-Hamster",
+                                "Cartoon Bag-Rabbit"
+                            ]
+                        }
+                    ],
+                    "createAt": 1599538239,
+                    "historical_sold": 1998,
+                    "currency_unit": "₫"
+                }
+            ],
+            "seemore": {
+                "href": "#",
+                "text": "Xem thêm"
+            }
+        }
+    }
+}

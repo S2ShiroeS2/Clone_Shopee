@@ -1,0 +1,210 @@
+{
+    "top": {
+        "heading": {
+            "title": "SHOPEE MALL",
+            "url_left": "/mall",
+            "url_right": "#",
+            "more": "Xem tất cả"
+        },
+        "shopeemall_top": [{
+                "id": 1,
+                "title": "7 Ngày Miễn Phí Trả Hàng",
+                "style": "_7_day_return"
+            },
+            {
+                "id": 2,
+                "title": "Hàng chính hãng 100%",
+                "style": "authentic"
+            },
+            {
+                "id": 3,
+                "title": "Miễn phí vận chuyển",
+                "style": "free_shipping"
+            }
+        ]
+    },
+    "bottom": {
+        "carousel_left": [{
+                "id": 1,
+                "src": "https://cf.shopee.vn/file/33de3745bb00d683ce24c2b9443ac156",
+                "caption": "FirstSlide"
+            },
+            {
+                "id": 2,
+                "src": "https://cf.shopee.vn/file/c0fa33031ff7c6a6b1302708da976745",
+                "caption": "SecondSlide"
+            },
+            {
+                "id": 3,
+                "src": "https://cf.shopee.vn/file/449d294bbf61d1cb8d92139294baffc7",
+                "caption": "ThirdSlide"
+            }
+        ],
+        "carousel_right": {
+            "items": [{
+                    "id": 1,
+                    "name": "slide-1",
+                    "data": [{
+                            "id": 1,
+                            "title": "Ra mắt Aiken sạch khuẩn",
+                            "img_src": "https://cf.shopee.vn/file/708fd94264f45421dc6718536b1b492f_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Quà xinh tặng bé",
+                            "img_src": "https://cf.shopee.vn/file/cf979087d6b618cbb54bea4a71e0f8b0_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ưu đãi đến 50%",
+                            "img_src": "https://cf.shopee.vn/file/c4af863d7ff477de2238414f07d21afd_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Mua 1 được 2",
+                            "img_src": "https://cf.shopee.vn/file/f2c51ca704c3f89761030027166bb919_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Lưng khô thoáng",
+                            "img_src": "https://cf.shopee.vn/file/88329d1eac50097e6c48375da25491c7_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Ưu đãi đến 40%",
+                            "img_src": "https://cf.shopee.vn/file/bba8f916738018660b6b2b7b9f9d7d6d_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Mua là có quà",
+                            "img_src": "https://cf.shopee.vn/file/65e83f4ccc4dcfd7a5376de41e8d85f5_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Ra mắt ",
+                            "img_src": "https://cf.shopee.vn/file/8d2c1d369465b363e1278b31b79ff7bf_xhdpi",
+                            "src": "#"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "slide-2",
+                    "data": [{
+                            "id": 1,
+                            "title": "Ra mắt Aiken sạch khuẩn",
+                            "img_src": "https://cf.shopee.vn/file/708fd94264f45421dc6718536b1b492f_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Ưu đãi đến 40%",
+                            "img_src": "https://cf.shopee.vn/file/bba8f916738018660b6b2b7b9f9d7d6d_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Mua là có quà",
+                            "img_src": "https://cf.shopee.vn/file/65e83f4ccc4dcfd7a5376de41e8d85f5_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Quà xinh tặng bé",
+                            "img_src": "https://cf.shopee.vn/file/cf979087d6b618cbb54bea4a71e0f8b0_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ưu đãi đến 50%",
+                            "img_src": "https://cf.shopee.vn/file/c4af863d7ff477de2238414f07d21afd_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Mua 1 được 2",
+                            "img_src": "https://cf.shopee.vn/file/f2c51ca704c3f89761030027166bb919_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Lưng khô thoáng",
+                            "img_src": "https://cf.shopee.vn/file/88329d1eac50097e6c48375da25491c7_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Ra mắt ",
+                            "img_src": "https://cf.shopee.vn/file/8d2c1d369465b363e1278b31b79ff7bf_xhdpi",
+                            "src": "#"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "slide-3",
+                    "data": [{
+                            "id": 1,
+                            "title": "Ra mắt Aiken sạch khuẩn",
+                            "img_src": "https://cf.shopee.vn/file/708fd94264f45421dc6718536b1b492f_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 2,
+                            "title": "Quà xinh tặng bé",
+                            "img_src": "https://cf.shopee.vn/file/cf979087d6b618cbb54bea4a71e0f8b0_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 3,
+                            "title": "Ưu đãi đến 50%",
+                            "img_src": "https://cf.shopee.vn/file/c4af863d7ff477de2238414f07d21afd_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 4,
+                            "title": "Mua 1 được 2",
+                            "img_src": "https://cf.shopee.vn/file/f2c51ca704c3f89761030027166bb919_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 5,
+                            "title": "Lưng khô thoáng",
+                            "img_src": "https://cf.shopee.vn/file/88329d1eac50097e6c48375da25491c7_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 6,
+                            "title": "Ưu đãi đến 40%",
+                            "img_src": "https://cf.shopee.vn/file/bba8f916738018660b6b2b7b9f9d7d6d_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 7,
+                            "title": "Mua là có quà",
+                            "img_src": "https://cf.shopee.vn/file/65e83f4ccc4dcfd7a5376de41e8d85f5_xhdpi",
+                            "src": "#"
+                        },
+                        {
+                            "id": 8,
+                            "title": "Ra mắt ",
+                            "img_src": "https://cf.shopee.vn/file/8d2c1d369465b363e1278b31b79ff7bf_xhdpi",
+                            "src": "#"
+                        }
+                    ]
+                }
+            ],
+            "seemore": {
+                "href": "#",
+                "text": "Xem thêm"
+            }
+        }
+    }
+}

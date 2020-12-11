@@ -1,0 +1,189 @@
+.contain-category-left {
+  width: 21%;
+  height: auto;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  .list-category {
+    width: 95%;
+    .list-category-header {
+      cursor: pointer;
+      color: black;
+      font-size: 1rem;
+      font-weight: bold;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+    .list-category-body {
+      .list-category-body-tittle {
+        color: red;
+        font-weight: bold;
+        font-size: 13px;
+        &:hover {
+          text-decoration: none;
+        }
+      }
+      ul {
+        padding-left: 1rem;
+        li {
+          list-style: none;
+          a {
+            line-height: 2;
+            font-size: 15px;
+            color: rgba(0, 0, 0, 0.8);
+            &:hover {
+              text-decoration: none;
+            }
+          }
+        }
+      }
+      .list-category-dropdown {
+        padding-left: 1rem;
+        .list-category-dropdown-header {
+          font-size: 15px;
+        }
+        .list-category-dropdown-body {
+          opacity: 0;
+          overflow: hidden;
+          // transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+          //   opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+          height: 0;
+          border: 1px solid red;
+        }
+      }
+    }
+  }
+  .search-fillter {
+    height: auto;
+    width: 95%;
+    // border: 1px solid pink;
+    .search-fillter-header {
+      font-size: 1rem;
+      margin-top: 1rem;
+      line-height: 5px;
+      color: rgba(0, 0, 0, 0.8);
+    }
+    .search-fillter-location {
+      margin-top: 1rem;
+      margin-left: 15px;
+      font-size: 15px;
+      color: rgba(0, 0, 0, 0.8);
+
+      .search-fillter-location-body {
+        .checkbox-location {
+          line-height: 2.2rem;
+          &:hover {
+            cursor: pointer;
+          }
+        }
+        span {
+          margin-left: 10px;
+        }
+      }
+    }
+    // =================================
+    .unit-tranport,
+    .servicePromotion {
+      margin-top: 1rem;
+      margin-left: 15px;
+      font-size: 15px;
+      .unit-tranport-body,
+      .servicePromotion-body {
+        .checkbox-unit-tranport,
+        .checkbox-servicePromotion {
+          line-height: 2.2rem;
+          &:hover {
+            cursor: pointer;
+          }
+        }
+        span {
+          margin-left: 10px;
+        }
+      }
+    }
+    .price-distance {
+      .price-distance-header {
+        margin-left: 15px;
+        font-size: 15px;
+      }
+      .price-distance-body {
+        display: block;
+        .character {
+          margin-left: 0.5rem;
+        }
+        .price-distance-input {
+          width: 5rem;
+          height: 1.875rem;
+          background-color: #fff;
+          margin-left: 0.8rem;
+          border: 1px solid rgba(0, 0, 0, 0.26);
+          outline: none;
+        }
+      }
+      .btn--price {
+        margin-left: 0.8rem;
+      }
+    }
+    .typeShop,
+    .activeProduct {
+      margin-top: 1rem;
+      margin-left: 15px;
+      font-size: 15px;
+      .typeShop-body,
+      .activeProduct-body {
+        .checkbox-typeShop,
+        .checkbox-activeProduct {
+          line-height: 2.5rem;
+          &:hover {
+            cursor: pointer;
+          }
+        }
+        span {
+          margin-left: 10px;
+        }
+      }
+    }
+    .delete-fillter {
+      &--delete-filter {
+        margin-right: 0.8px;
+      }
+    }
+    .rate {
+      .rate-header {
+        font-size: 1rem;
+        margin-left: 1rem;
+      }
+      .rate-body {
+        margin-top: 0.5rem;
+        &__wrap {
+          margin-bottom: 0.325rem;
+          margin-left: 0.5rem;
+          cursor: pointer;
+          color: #ffce3d;
+          font-size: medium;
+
+          span {
+            margin-left: 0.5rem;
+          }
+          b {
+            font-weight: 100;
+            color: black;
+          }
+        }
+      }
+    }
+  }
+}
+.btn {
+  width: 11.8rem;
+  height: 1.875rem;
+  margin-top: 0.8rem;
+  border: none;
+  background-color: #ee4d2d;
+  color: white;
+  font-size: 0.8rem;
+  &:focus {
+    border: none;
+  }
+}

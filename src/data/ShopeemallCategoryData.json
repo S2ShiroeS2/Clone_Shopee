@@ -1,0 +1,101 @@
+{
+    "ShoppeMall": {
+        "heading": {
+            "title": "TOP SẢN PHẨM BÁN CHẠY",
+            "title_href": "#",
+            "seemore": "Xem thêm",
+            "seemore_href": "#"
+        },
+        "content": {
+            "items": [{
+                    "id": 1,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/03b216ad2dfbb3d09c1776cdb88c01cd",
+                    "url_bottom": "https://cf.shopee.vn/file/d98cd9c737f38f62d8e7da6cd4304fbf"
+                },
+                {
+                    "id": 2,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/29368cca19355bc62304bb0400b14af7",
+                    "url_bottom": "https://cf.shopee.vn/file/5ea0a1db8923aa293c842e0a123c4490"
+                },
+                {
+                    "id": 3,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/d98cd9c737f38f62d8e7da6cd4304fbf",
+                    "url_bottom": "https://cf.shopee.vn/file/452af176b0e56548a0a78104bfe64d48"
+                },
+                {
+                    "id": 4,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/bc305025e03be2fdf686388bd8215a5b",
+                    "url_bottom": "https://cf.shopee.vn/file/4dc63f68f910f3fd51107912c2b8c852"
+                },
+                {
+                    "id": 5,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/fb5724fb8f8be4cdf6be45b8c1c01889",
+                    "url_bottom": "https://cf.shopee.vn/file/7560b3127aebe77c3340bb85d0a628f3"
+                },
+                {
+                    "id": 6,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/6d90553d0565f9b6ce35fa487c73e64c",
+                    "url_bottom": "https://cf.shopee.vn/file/b719dd5ac727046582ea0a36a3e65cdb"
+                },
+                {
+                    "id": 7,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/ee39f995ad6414cc6dc25b35de30eb9f",
+                    "url_bottom": "https://cf.shopee.vn/file/6a7f8041304456669e173f4108d93ada"
+                },
+                {
+                    "id": 8,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/25425db5146c380b9a9a8851ecc1746f",
+                    "url_bottom": "https://cf.shopee.vn/file/47befc7988bf420e7a32b3fb8bbbf27a"
+                },
+                {
+                    "id": 9,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/404be71e6b617f6bd9f3c3a4f187b455",
+                    "url_bottom": "https://cf.shopee.vn/file/c422e8f7399025fee55c292a2d9df05d"
+                },
+                {
+                    "id": 10,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/1f735499892080ad5e66d220d939710a",
+                    "url_bottom": "https://cf.shopee.vn/file/d7a479bfef4f0b4f478e31206b754b10"
+                },
+                {
+                    "id": 11,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/21508f8fd8aaf9465874045e15f1e8e0",
+                    "url_bottom": "https://cf.shopee.vn/file/67afb2bc2714cbc6700d43b3684c65ce"
+                },
+                {
+                    "id": 12,
+                    "href_top": "#",
+                    "href_bottom": "#",
+                    "url_top": "https://cf.shopee.vn/file/b2f68e3ebfef7dfc64207538c75d404c",
+                    "url_bottom": "https://cf.shopee.vn/file/b719dd5ac727046582ea0a36a3e65cdb"
+                }
+            ],
+            "seemore": {
+                "href": "#",
+                "text": "Xem thêm"
+            }
+        }
+    }
+}

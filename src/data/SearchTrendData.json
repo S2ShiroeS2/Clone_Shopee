@@ -1,0 +1,44 @@
+{
+  "listSearch": [
+    {
+      "concept_id": "dummy",
+      "url": "https://shopee.vn/search?keyword=sandal%20n%E1%BB%AF",
+      "count": 274536,
+      "image": "https://cf.shopee.vn/file/93073101321f322c66260c81cb5b50c7",
+      "index": 0,
+      "keyword": "Sandal Nữ"
+    },
+    {
+      "concept_id": "dummy",
+      "url": "https://shopee.vn/search?keyword=hoodie%20nam",
+      "count": 156622,
+      "image": "https://cf.shopee.vn/file/2f44be4ad5eaf0c21eaf9c1c7a228d01",
+      "index": 1,
+      "keyword": "Hoodie Nam"
+    },
+    {
+      "concept_id": "dummy",
+      "url": "https://shopee.vn/search?keyword=d%C3%A9p%20nam",
+      "count": 1080860,
+      "image": "https://cf.shopee.vn/file/eee66edd9328631450d5d5769c4022ef",
+      "index": 2,
+      "keyword": "Dép Nam"
+    },
+    {
+      "concept_id": "dummy",
+      "url": "https://shopee.vn/search?keyword=balo%20n%E1%BB%AF",
+      "count": 194847,
+      "image": "https://cf.shopee.vn/file/f3a88e27b15ff442a2a2143d8f0ab583",
+      "index": 3,
+      "keyword": "Balo Nữ"
+    },
+    {
+      "concept_id": "dummy",
+      "url": "https://shopee.vn/search?keyword=%C3%A1o%20n%E1%BB%AF",
+      "count": 5395817,
+      "image": "https://cf.shopee.vn/file/8e5d4d05c97dc9e2484d04c147f2d801",
+      "index": 4,
+      "keyword": "Áo Nữ"
+    }
+  ]
+}

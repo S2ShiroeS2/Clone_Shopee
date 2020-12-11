@@ -1,0 +1,27 @@
+.product-description {
+  padding: 0.9375rem 0.9375rem 0;
+  &__title {
+    background: rgba(0, 0, 0, 0.02);
+    color: rgba(0, 0, 0, 0.87);
+    font-size: 1.125rem;
+    padding: 0.875rem;
+    text-transform: capitalize;
+  }
+  &__content {
+    margin: 1.875rem 0.9375rem 0.9375rem;
+  }
+  &__wrapper {
+    white-space: pre-wrap;
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 0.875rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.875rem;
+    display: flex;
+    flex-direction: column;
+    p {
+      margin-top: 1rem;
+      margin-bottom: 0;
+    }
+  }
+}

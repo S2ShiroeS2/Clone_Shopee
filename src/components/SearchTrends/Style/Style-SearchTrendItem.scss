@@ -1,0 +1,79 @@
+@mixin flexbox(
+  $align: flex-start,
+  $justify: flex-start,
+  $wrap: nowrap,
+  $dir: row
+) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  flex-wrap: $wrap;
+  flex-direction: $dir;
+}
+
+.card-search-trend {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 1 auto;
+  -moz-box-flex: 0;
+  -ms-flex: 0 1 auto;
+  flex: 0 1 auto;
+  width: 20%;
+  border-right: 1px solid rgba(0, 0, 0, 0.05);
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-right: 0.625rem;
+  text-decoration: none;
+  overflow: hidden;
+  display: flex;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  background-color: transparent;
+  &:last-child {
+    border-right: none;
+  }
+  &__title {
+    -webkit-box-flex: 13;
+    -webkit-flex: 13 0;
+    -moz-box-flex: 13;
+    -ms-flex: 13 0;
+    flex: 13 0;
+    min-width: 0;
+    &--wrapper {
+      padding: 1.25rem 0.625rem 1.25rem 1.25rem;
+    }
+  }
+  &__product-name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    color: #222;
+    font-weight: 500;
+    text-transform: capitalize;
+    font-size: 14px;
+  }
+  &__number-search {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    margin-top: 0.3125rem;
+    color: #757575;
+    font-size: 0.8125rem;
+  }
+  &__image {
+    position: relative;
+    -webkit-box-flex: 10;
+    -webkit-flex: 10 0;
+    -moz-box-flex: 10;
+    -ms-flex: 10 0;
+    flex: 10 0;
+    &-space {
+      width: 100%;
+      padding-top: 100%;
+      opacity: 1;
+      -webkit-transition: opacity 0.2s ease;
+      transition: opacity 0.2s ease;
+    }
+  }
+}

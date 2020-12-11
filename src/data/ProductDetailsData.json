@@ -1,0 +1,143 @@
+{
+  "item": {
+    "productDetails": {
+      "header": "CHI TIẾT SẢN PHẨM",
+      "attributes": [
+        {
+          "id": 13791,
+          "idx": 0,
+          "is_pending_qc": false,
+          "is_timestamp": false,
+          "name": "Thương hiệu",
+          "value": "No Brand"
+        },
+        {
+          "id": 13871,
+          "idx": 1,
+          "is_pending_qc": true,
+          "is_timestamp": false,
+          "name": "Chất liệu",
+          "value": "Len acrylic"
+        },
+        {
+          "id": 10637,
+          "idx": 2,
+          "is_pending_qc": true,
+          "is_timestamp": false,
+          "name": "Tay áo",
+          "value": "Tay dài"
+        },
+        {
+          "id": 10638,
+          "idx": 3,
+          "is_pending_qc": true,
+          "is_timestamp": false,
+          "name": "Dáng áo",
+          "value": "Thông thường"
+        },
+        {
+          "id": 10639,
+          "idx": 4,
+          "is_pending_qc": true,
+          "is_timestamp": false,
+          "name": "Cách giặt",
+          "value": "Giặt máy"
+        },
+        {
+          "id": 10641,
+          "idx": 5,
+          "is_pending_qc": true,
+          "is_timestamp": false,
+          "name": "Cổ áo",
+          "value": "Cổ cao"
+        },
+        {
+          "id": 22359,
+          "idx": 6,
+          "is_pending_qc": true,
+          "is_timestamp": false,
+          "name": "Xuất Xứ",
+          "value": ""
+        }
+      ],
+      "categories": [
+        {
+          "block_buyer_platform": null,
+          "category_id": 78,
+          "display_name": "Thời Trang Nam",
+          "image": null,
+          "is_default_subcat": false,
+          "no_sub": false
+        },
+        {
+          "block_buyer_platform": null,
+          "category_id": 9566,
+          "display_name": "Áo nỉ/ Áo len",
+          "image": null,
+          "is_default_subcat": false,
+          "no_sub": false
+        },
+        {
+          "block_buyer_platform": null,
+          "category_id": 11810,
+          "display_name": "Áo cổ trụ",
+          "image": null,
+          "is_default_subcat": false,
+          "no_sub": true
+        }
+      ],
+      "discount": "50%",
+      "discount_stock": 7123,
+      "place": "Quận Hà Đông, Hà Nội"
+    },
+    "productDescription": {
+      "header": "MÔ TẢ SẢN PHẨM",
+      "description": [
+        "Áo len nam cổ lọ full màu đủ size từ 45 đến 80kg",
+        "THÔNG TIN SẢN PHẨM",
+        "Tên sản phẩm: Áo len nam cổ lọ ",
+        "Chất liệu: len cotton",
+        "Màu sắc: 12 màu",
+        "Size: từ M đến XL",
+        "Áo len nam cổ lọ dày dặn mềm mịn không bai xù dão, không dão kiểu dáng thời trang trẻ ",
+        "Áo dễ kết hợp các trang phục khác nhau: quần jean, quần âu, giày tây, gìay thể thao... tinh tế thích hợp đi làm hay đi chơi đều thoải mái, ấm áp"
+      ],
+      "tutorial": {
+        "title": "HƯỚNG DẪN CHỌN SIZE ÁO LEN NAM",
+        "content": [
+          "Size M: Cân nặng 45-55kg, dưới 1m65",
+          "Size L: Cân nặng 56-66kg, cao dưới 1m72",
+          "Size XL: Cân nặng 67-78kg, cao dưới 1m80.",
+          "Bụng to thì tăng thêm 1 size nhé",
+          "Lưu ý: thông số các số đo có thể bị chênh lệch 1-2cm"
+        ]
+      },
+      "commitment": {
+        "title": "FAVITI CAM KẾT",
+        "content": [
+          "Sản phẩm 100% giống mô tả. Kiểu dáng hoàn toàn giống ảnh mẫu",
+          "Áo được kiểm tra kĩ càng, cẩn thận và tư vấn nhiệt tình trước khi gói hàng giao cho Quý Khách",
+          "Hàng có sẵn, giao hàng ngay khi nhận được đơn ",
+          "Hoàn tiền nếu sản phẩm không giống với mô tả",
+          "Chấp nhận đổi hàng khi size không vừa",
+          "Giao hàng trên toàn quốc, nhận hàng trả tiền ",
+          "Hỗ trợ đổi trả theo quy định của Shopee"
+        ]
+      },
+      "Cases": [
+        "1. Điều kiện áp dụng (trong vòng 07 ngày kể từ khi nhận sản phẩm)",
+        "   Hàng hoá vẫn còn mới, chưa qua sử dụng ",
+        "   Hàng hoá bị lỗi hoặc hư hỏng do vận chuyển hoặc do nhà sản xuất ",
+        "2. Trường hợp được chấp nhận: ",
+        "   Hàng không đúng size, kiểu dáng như quý khách đặt hàng ",
+        "   Không đủ số lượng, không đủ bộ như trong đơn hàng ",
+        "3. Trường hợp không đủ điều kiện áp dụng chính sách:",
+        "   Quá 07 ngày kể từ khi Quý khách nhận hàng ",
+        "   Gửi lại hàng không đúng mẫu mã, không phải sản phẩm của FAVITI",
+        "   Không thích, không hợp, đặt nhầm mã, nhầm màu,... ",
+        "   Do màn hình và điều kiện ánh sáng khác nhau, màu sắc thực tế của sản phẩm có thể chênh lệch khoảng 3-5%",
+        "#ao #len #nam #cotron #colo #somi #dep #hanoi #aokhoac #day #memmin #codan #am #lenshop"
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+.shoppe-mall {
+    margin-top: 30px;
+    width: 100%;
+    background-color: white;
+    .header {
+        height: 20%;
+        padding: 0 5px 10px;
+        line-height: 40px;
+        display: flex;
+        justify-content: space-between;
+        .header-left {
+            color: #d0011b;
+            cursor: pointer;
+            font-size: 18px;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+        .header-right {
+            margin-left: auto;
+            color: #d0011b;
+            font-size: 13px;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+    .shoppeMallContent {
+        height: 80%;
+        position: relative;
+        .list-shoppeMall-row {
+            padding-left: 0px;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            li:nth-child(2n) {
+                display: none;
+            }
+        }
+        .list-shoppeMall-rowChange {
+            color: rgba(0, 0, 0, 0.54);
+            font-size: large;
+            cursor: pointer;
+            i:first-child {
+                position: absolute;
+                top: 43%;
+                left: -8px;
+                &:hover {
+                    font-size: xx-large;
+                    transform: translateY(-2px);
+                }
+            }
+            i:last-child {
+                position: absolute;
+                z-index: 1;
+                top: 43%;
+                right: -7px;
+                &:hover {
+                    font-size: xx-large;
+                    transform: translateY(-2px);
+                }
+            }
+        }
+    }
+}

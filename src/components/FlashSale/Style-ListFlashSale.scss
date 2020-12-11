@@ -1,0 +1,253 @@
+//Button
+.button-outline {
+  text-transform: capitalize;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -moz-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #ee4d2d;
+  padding: 0.3125rem 0.4375rem;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  border: none;
+  font-size: 0.875rem;
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: 0;
+  transition: background-color 0.1s cubic-bezier(0.4, 0, 0.6, 1);
+}
+//---------------------------------------
+//Header
+.flash-sale {
+  position: relative;
+  &__section {
+    padding-top: 1.25rem;
+    &--header {
+      background: #fff;
+      height: 3.75rem;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+      padding: 0 1.25rem;
+      padding-bottom: 0 !important;
+      display: -webkit-box;
+      display: -webkit-flex;
+      display: -moz-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-align: center;
+      -webkit-align-items: center;
+      -moz-box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      padding-bottom: 0.625rem;
+    }
+    &--header-title {
+      display: flex;
+      font-size: 1rem;
+      color: rgba(0, 0, 0, 0.54);
+      font-weight: 500;
+      text-transform: uppercase;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      margin-right: 1.25rem;
+      -webkit-box-flex: 1;
+      -webkit-flex: 1;
+      -moz-box-flex: 1;
+      -ms-flex: 1;
+      flex: 1;
+    }
+    &--countdown-timer {
+      pointer-events: none;
+    }
+    &--countdown-wrapper {
+      height: 30px;
+      line-height: 1.875rem;
+      margin: 0 auto;
+      position: relative;
+      display: -webkit-inline-box;
+      display: -webkit-inline-flex;
+      display: -moz-inline-box;
+      display: -ms-inline-flexbox;
+      display: inline-flex;
+      pointer-events: all;
+    }
+    &--countdown-image {
+      padding-left: 16px;
+      width: 114px;
+      height: 30px;
+      line-height: 30px;
+      text-transform: uppercase;
+      display: inline-block;
+      background: url("https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/1005f537d149230463364c8bfdc74c2f.png")
+        50% no-repeat;
+      background-size: contain;
+    }
+    &--header-link {
+      text-decoration: none !important;
+      color: #ee4d2d;
+      display: block;
+
+      .fa-chevron-right {
+        font-size: 0.625rem;
+        padding-left: 10px;
+      }
+    }
+    &--countdown-text {
+      margin-left: 0.625rem;
+      height: 30px;
+      font-weight: 400;
+      -webkit-box-align: start;
+      -webkit-align-items: flex-start;
+      -moz-box-align: start;
+      -ms-flex-align: start;
+      align-items: flex-start;
+      -webkit-transform: scale(0.84);
+      transform: scale(0.84);
+      display: flex;
+    }
+    &--content {
+      padding-top: 0;
+    }
+  }
+  &:hover .carousel-arrow {
+    width: 50px;
+    height: 50px;
+    margin-top: -25px;
+  }
+  &:hover i.fa-chevron {
+    font-size: 1rem !important;
+  }
+}
+//-------------------------------------------------
+.countdown-timer {
+  &__number {
+    background: currentColor;
+    border-radius: 2px;
+    height: 17px;
+    margin-bottom: 4px;
+    padding: 1px 3px;
+    line-height: 20px;
+    font-size: 19px;
+    overflow: hidden;
+    -webkit-justify-content: space-around;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    min-width: 20px;
+    text-align: center;
+    cursor: default;
+    background: #000;
+    color: #fff;
+    margin-left: 5px;
+    font-weight: bold;
+  }
+}
+//-----------------------------------------
+//slide product
+.image-carousel {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  &__item-list-wrapper {
+    height: 100%;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  &__item-list {
+    margin: 0;
+    padding: 0;
+    width: 266.667%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: relative;
+    height: 100%;
+  }
+  .carousel-arrow {
+    visibility: visible;
+    width: 50px;
+    height: 50px;
+    z-index: 1;
+    box-shadow: 0 1px 12px 0 rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    line-height: 50px;
+    font-size: 20px;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-top: -25px;
+    -webkit-transition: all 0.1s cubic-bezier(0.4, 0, 0.6, 1);
+    transition: all 0.1s cubic-bezier(0.4, 0, 0.6, 1);
+    opacity: 0;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -moz-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -moz-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    outline: 0;
+    &--hint {
+      width: 25px;
+      height: 25px;
+      line-height: 25px;
+      margin-top: -12.5px;
+      background-color: #fff;
+    }
+    &--prev {
+      left: 0;
+      transform: translateX(calc(-50% + 0px));
+    }
+    &--next {
+      right: 0;
+      transform: translateX(calc(50% - 0px));
+    }
+    i.fa {
+      font-size: 0.625rem;
+      color: rgba(0, 0, 0, 0.54);
+    }
+    &:hover {
+      width: 50px;
+      height: 50px;
+      margin-top: -25px;
+    }
+    &:hover i.fa {
+      font-size: 1rem;
+    }
+  }
+  .active {
+    opacity: 1;
+  }
+  .disable {
+    opacity: 0 !important;
+  }
+}

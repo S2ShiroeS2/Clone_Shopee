@@ -1,0 +1,102 @@
+@mixin flexbox(
+  $align: flex-start,
+  $justify: flex-start,
+  $wrap: nowrap,
+  $dir: row
+) {
+  display: flex;
+  align-items: $align;
+  justify-content: $justify;
+  flex-wrap: $wrap;
+  flex-direction: $dir;
+}
+
+.banner {
+  min-width: 1200px;
+  padding-bottom: 0px;
+  margin-top: 70px;
+  &-background {
+    background: #fff;
+  }
+}
+
+.container-banner {
+  padding-top: 15px;
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.section-banner {
+  width: 1305px;
+  margin-left: -52.5px;
+  margin-top: 45px;
+  &__wrapper {
+    display: flex;
+    min-height: 235px;
+    max-height: 235px;
+  }
+}
+.home-banner {
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.05);
+  border-radius: 0.125rem;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+  -webkit-box-flex: 2;
+  flex: 2 1 0;
+  overflow: hidden;
+  &__left {
+    overflow: hidden;
+    margin-left: 5px;
+    border-radius: 2px;
+    @include flexbox(flex-start, flex-start, nowrap, column);
+    width: 400px;
+    a {
+      width: 400px;
+      img {
+        width: 100%;
+        border-radius: 2px;
+        background-size: cover;
+      }
+    }
+    a:last-child {
+      margin-top: 5px;
+    }
+  }
+  #carousel-1 {
+    .carousel-control-prev,
+    .carousel-control-next {
+      opacity: 0;
+      width: 2.1875rem;
+      height: 3.75rem;
+      top: 36.5%;
+      background-color: rgba(0, 0, 0, 0.18);
+      &:hover {
+        background-color: rgba(0, 0, 0, 0.32);
+      }
+    }
+    &:hover {
+      cursor: pointer;
+      .carousel-control-prev,
+      .carousel-control-next {
+        opacity: 1 !important;
+      }
+    }
+  }
+}
+
+#carousel-1___BV_indicators_ {
+  li {
+    width: 0.625rem;
+    height: 0.625rem;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.26);
+    outline: none;
+    cursor: pointer;
+  }
+
+  .active {
+    background-color: #ee4d2d;
+  }
+}

@@ -1,0 +1,745 @@
+{
+  "listProduct": [
+    {
+      "add_on_deal_info": {
+        "add_on_deal_id": 1159515,
+        "add_on_deal_label": "Mua Kèm Deal Sốc",
+        "sub_type": 0
+      },
+      "brand": "No Brand",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 4893,
+      "ctime": 1539878256,
+      "currency": "₫",
+      "discount": "51%",
+      "flag": 2,
+      "historical_sold": 15513,
+      "image": "https://cf.shopee.vn/file/8eb06a09fff6af941b613e3ec8bf2a35_tn",
+      "image_overlay": "https://cf.shopee.vn/file/b5b9c62da8fe59cf15120a53b31f8b1b",
+      "images": [
+        "https://cf.shopee.vn/file/94d23e9008f15fcf2ad8681ec0cae873",
+        "https://cf.shopee.vn/file/df80c6a198d2f26247604b2f23269d5a",
+        "https://cf.shopee.vn/file/9a148e25c5423fb42a95234f4e4a92f9",
+        "https://cf.shopee.vn/file/189ad1926e114d2579197d975a8c44f9",
+        "https://cf.shopee.vn/file/e013cef1117ac29240061c9651b59d8b",
+        "https://cf.shopee.vn/file/1b964a88be5eb1e9dbd41e84d079f4a3",
+        "https://cf.shopee.vn/file/bd76a0429179bb62715101b09aeceed9",
+        "https://cf.shopee.vn/file/e0faa4b58902b3381cfc244895afb8bf",
+        "https://cf.shopee.vn/file/8c8e11f22afce46647203ce7b9415ef1"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [4894, 41, 46, 152, 347, 4308],
+        "rating_star": 4.8
+      },
+      "item_id": 1589295236,
+      "liked_count": 5196,
+      "name": "Áo len nam cổ lọ màu mới nhất 2020",
+      "price": 10000000000,
+      "price_before_discount": 20000000000,
+      "price_max": 10000000000,
+      "price_max_before_discount": 20000000000,
+      "price_min": 10000000000,
+      "price_min_before_discount": 20000000000,
+      "raw_discount": 50,
+      "shop_location": "Hà Nội",
+      "shop_id": 38003654,
+      "show_discount": 51,
+      "sold": 4656,
+      "status": 1,
+      "stock": 496,
+      "tier_variations": [
+        {
+          "images": [],
+          "name": "Màu",
+          "options": [
+            "Đen",
+            "Trắng",
+            "Đỏ",
+            "Xanh Than",
+            "Xám đậm",
+            "Cam",
+            "Vàng Be",
+            "Xanh Rêu"
+          ],
+          "properties": [],
+          "type": 0
+        },
+        {
+          "images": [],
+          "name": "Kích cỡ",
+          "options": ["M (45 - 60Kg)", "L (58 - 72 Kg)", "XL (68 - 82Kg)"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 195716
+    },
+    {
+      "add_on_deal_info": {
+        "add_on_deal_id": 1419931,
+        "add_on_deal_label": "Mua Kèm Deal Sốc",
+        "sub_type": 0
+      },
+      "brand": "N7",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 2572,
+      "ctime": 1600858731,
+      "currency": "₫",
+      "discount": "32%",
+      "flag": 2,
+      "historical_sold": 10024,
+      "image": "https://cf.shopee.vn/file/8bca483371fdec1c0f9bf89b02df20d8_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/8bca483371fdec1c0f9bf89b02df20d8",
+        "https://cf.shopee.vn/file/09182b46864e219b05e1ddbdf0415529",
+        "https://cf.shopee.vn/file/4a1a196cc9949c1c2d71ee1d1f49cfb3",
+        "https://cf.shopee.vn/file/d668016b6d65c68b57ef2ddd1aa1e821",
+        "https://cf.shopee.vn/file/2dc5f5575e3bd3da0f7f047dc4e8db36",
+        "https://cf.shopee.vn/file/722180f38832431011a97f54a2e173f4",
+        "https://cf.shopee.vn/file/946d414979e6d7ec9d787ac0b18db380",
+        "https://cf.shopee.vn/file/81fbff22b9e83ec7ef4c1f377b1cecda",
+        "https://cf.shopee.vn/file/08ccae27cdfd965ab581318f18d6df88"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [2572, 2, 3, 4, 75, 2488],
+        "rating_star": 4.9
+      },
+      "item_id": 3554096264,
+      "liked_count": 3615,
+      "name": "Áo thun Unisex N7 Basic Tee phông trơn nam nữ tay lỡ oversize phom rộng",
+      "price": 9800000000,
+      "price_before_discount": 14500000000,
+      "price_max": 9800000000,
+      "price_max_before_discount": 14500000000,
+      "price_min": 9800000000,
+      "price_min_before_discount": 14500000000,
+      "raw_discount": 32,
+      "shop_location": "Hà Nội",
+      "shop_id": 257372007,
+      "show_discount": 32,
+      "sold": 6024,
+      "status": 1,
+      "stock": 800,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/41b64578b877fdd333c82d3117a1f09a",
+            "https://cf.shopee.vn/file/e5b03fd35b96112496c951d7400bca86",
+            "https://cf.shopee.vn/file/377f8f272f675f7525c3512628eb5773",
+            "https://cf.shopee.vn/file/2881ec7ad0895cf6737f988d59fd24d5",
+            "https://cf.shopee.vn/file/76be0109e4118ce5105ae8526700abe0",
+            "https://cf.shopee.vn/file/943a6c6ccaffa99e4605f5b1358b80d0",
+            "https://cf.shopee.vn/file/44e802f415c342dba847ac0ab570569b",
+            "https://cf.shopee.vn/file/1558071f6abab149753e68af7097c248",
+            "https://cf.shopee.vn/file/c3fa1be7e4766ef153d89aea1cdd62dd",
+            "https://cf.shopee.vn/file/64a22863a9df323e39c81a3528de59ee",
+            "https://cf.shopee.vn/file/5475d279b6f06444ad39db0b74709b9a",
+            "https://cf.shopee.vn/file/abad3f3ce536b453b7d32a742ea373be"
+          ],
+          "name": "Màu",
+          "options": [
+            "Đen",
+            "Trắng",
+            "Xanh Blue",
+            "Cam",
+            "Hồng Pastel",
+            "Tím ",
+            "Xám",
+            "Hồng Ruốc",
+            "Xanh Mint",
+            "Xanh Lam",
+            "Chuối",
+            "Be"
+          ],
+          "properties": [],
+          "type": 0
+        },
+        {
+          "images": [],
+          "name": "Size",
+          "options": ["M", "L", "XL", "2XL"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 156332
+    },
+    {
+      "add_on_deal_info": null,
+      "brand": "N7",
+      "bundle_deal_info": {
+        "bundle_deal_id": 3683845,
+        "bundle_deal_label": "Mua 2 & giảm 3%"
+      },
+      "category_id": 78,
+      "cmt_count": 902,
+      "ctime": 1587365269,
+      "currency": "₫",
+      "discount": "40%",
+      "flag": 2,
+      "historical_sold": 2568,
+      "image": "https://cf.shopee.vn/file/9a686d7b25d9467012be049e3ac88ebe_tn",
+      "image_overlay": "https://cf.shopee.vn/file/b5b9c62da8fe59cf15120a53b31f8b1b",
+      "images": [
+        "https://cf.shopee.vn/file/9a686d7b25d9467012be049e3ac88ebe",
+        "https://cf.shopee.vn/file/e3318736bb270dbe53d8f734bb287903",
+        "https://cf.shopee.vn/file/0802d38d03e294d726172f20425c0876",
+        "https://cf.shopee.vn/file/792400a4c3d66cd40b1f3bde9070003e",
+        "https://cf.shopee.vn/file/80f3d7893a2cf74cafb07aaa41a1af1c",
+        "https://cf.shopee.vn/file/b5236adcd8493beb3e840db42213e0eb",
+        "https://cf.shopee.vn/file/140412dea9ecf4191c35c4e7f9275a73"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [902, 0, 2, 6, 15, 879],
+        "rating_star": 4.9
+      },
+      "item_id": 7229653526,
+      "liked_count": 763,
+      "name": "Dây Chuyền Mặt Hình Mặt Trăng Mặt Trời Thời Trang Cho Nam Nữ",
+      "price": 1613500000,
+      "price_before_discount": 2689200000,
+      "price_max": 1613500000,
+      "price_max_before_discount": -1,
+      "price_min": 1613500000,
+      "price_min_before_discount": -1,
+      "raw_discount": 40,
+      "shop_location": "Nước ngoài",
+      "shop_id": 109764083,
+      "show_discount": 40,
+      "sold": 657,
+      "status": 1,
+      "stock": 7072,
+      "tier_variations": [],
+      "view_count": 19830
+    },
+    {
+      "add_on_deal_info": null,
+      "brand": "No brand",
+      "bundle_deal_info": {
+        "bundle_deal_id": 2702747,
+        "bundle_deal_label": "Mua 2 & giảm ₫9.999"
+      },
+      "category_id": 78,
+      "cmt_count": 6726,
+      "ctime": 1544063001,
+      "currency": "₫",
+      "discount": "48%",
+      "flag": 2,
+      "historical_sold": 10024,
+      "image": "https://cf.shopee.vn/file/310bdc4af5b365a61562120e90a54182_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/310bdc4af5b365a61562120e90a54182",
+        "https://cf.shopee.vn/file/6117f1e1052f8ba56fe1d85e23d7177f",
+        "https://cf.shopee.vn/file/5b615e83a1ec42d835a77dd5262d6084",
+        "https://cf.shopee.vn/file/d4e9126919e9107039d0ebe995256eda",
+        "https://cf.shopee.vn/file/8283ecad565d499f43427a13ae9a40a7",
+        "https://cf.shopee.vn/file/3e6a8d7ba5d243e91e990339eb7bbec0",
+        "https://cf.shopee.vn/file/1cb3e56c51727ea57343db7526255a7b",
+        "https://cf.shopee.vn/file/fffdc5a853ac329f93862f6e876af578",
+        "https://cf.shopee.vn/file/ccdd5af4f2bd7cb822efc44cdae0eb00"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [6729, 21, 26, 100, 274, 6308],
+        "rating_star": 4.9
+      },
+      "item_id": 1720339752,
+      "liked_count": 84514,
+      "name": "Ví nam chất đẹp thời trang cao cấp Bóp da PU nhiều ngăn phong cách trẻ sành điệu gu nam tính nhập khẩu chính hãng",
+      "price": 5500000000,
+      "price_before_discount": 10500000000,
+      "price_max": 5500000000,
+      "price_max_before_discount": 10500000000,
+      "price_min": 5500000000,
+      "price_min_before_discount": 10500000000,
+      "raw_discount": 48,
+      "shop_location": "Hà Nội",
+      "shop_id": 107287927,
+      "show_discount": 48,
+      "sold": 4282,
+      "status": 1,
+      "stock": 162825,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/8283ecad565d499f43427a13ae9a40a7",
+            "https://cf.shopee.vn/file/d4e9126919e9107039d0ebe995256eda"
+          ],
+          "name": "Màu sắc",
+          "options": ["Đen", "Nâu"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 125664
+    },
+    {
+      "add_on_deal_info": null,
+      "brand": "GENZ",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 2246,
+      "ctime": 1596514357,
+      "currency": "₫",
+      "discount": "50%",
+      "flag": 0,
+      "historical_sold": 5152,
+      "image": "https://cf.shopee.vn/file/fe4f3b8c1a4af99bf8a0aa99bd740830_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/fe4f3b8c1a4af99bf8a0aa99bd740830",
+        "https://cf.shopee.vn/file/d93dadf24eb008ffa4a0022a70b35861",
+        "https://cf.shopee.vn/file/d32fd11502efe1d2c9066a6eef98184f",
+        "https://cf.shopee.vn/file/3343efa2457c5f6ea1a954b1454cee48"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [2246, 13, 6, 31, 74, 2122],
+        "rating_star": 4.9
+      },
+      "item_id": 5044895242,
+      "liked_count": 1593,
+      "name": "Nón bucket tròn vành GENZ trơn nhiều màu phong cách Ulzzang Unisex ZA005",
+      "price": 3000000000,
+      "price_before_discount": 6000000000,
+      "price_max": 3000000000,
+      "price_max_before_discount": 6000000000,
+      "price_min": 3000000000,
+      "price_min_before_discount": 6000000000,
+      "raw_discount": 50,
+      "shop_location": "TP. Hồ Chí Minh",
+      "shop_id": 60292492,
+      "show_discount": 50,
+      "sold": 1990,
+      "status": 1,
+      "stock": 23231,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/e3f4e0a4d6b31dc06b9f4a257f4cb946",
+            "https://cf.shopee.vn/file/d32fd11502efe1d2c9066a6eef98184f",
+            "https://cf.shopee.vn/file/9bb26ea8a775f5df4e585c7a77889035"
+          ],
+          "name": "MÀU SẮC",
+          "options": ["ĐEN", "TRẮNG", "BE"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 63876
+    },
+    {
+      "add_on_deal_info": {
+        "add_on_deal_id": 1468224,
+        "add_on_deal_label": "Mua Kèm Deal Sốc"
+      },
+      "brand": "No Brand",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 3633,
+      "ctime": 1567826306,
+      "currency": "₫",
+      "discount": "48%",
+      "flag": 2,
+      "historical_sold": 13209,
+      "image": "https://cf.shopee.vn/file/5afb4bd8b23a68d1d067a68ea3938f92_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/5afb4bd8b23a68d1d067a68ea3938f92",
+        "https://cf.shopee.vn/file/1f359f0ab367530795addd89f0dddfca",
+        "https://cf.shopee.vn/file/66be98153de26d1a624701e47ad3e4bd",
+        "https://cf.shopee.vn/file/2a1f80a50e74c831d47c2d88a2ef0a0e",
+        "https://cf.shopee.vn/file/e0bdc8f537ac30fca687660df803d0af",
+        "https://cf.shopee.vn/file/f95b76f081944d1039779a90d2769c63",
+        "https://cf.shopee.vn/file/0ef44fde7bed45ea5c7ad08978da9dd4",
+        "https://cf.shopee.vn/file/85cef1f31d145acfb26220f9edd0ac52",
+        "https://cf.shopee.vn/file/0a49d2d0bf8c12097593907dbe61c6f4"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [3633, 11, 11, 39, 179, 3393],
+        "rating_star": 4.9
+      },
+      "item_id": 2780514988,
+      "liked_count": 1590,
+      "name": "FS50K - Quần jogger nam nữ thun da cá/nỉ bigsize thể thao/gym",
+      "price": 5200000000,
+      "price_before_discount": 10000000000,
+      "price_max": 5200000000,
+      "price_max_before_discount": 10000000000,
+      "price_min": 5200000000,
+      "price_min_before_discount": 10000000000,
+      "raw_discount": 48,
+      "shop_location": "TP. Hồ Chí Minh",
+      "shop_id": 6761337,
+      "show_discount": 48,
+      "sold": 2095,
+      "status": 1,
+      "stock": 290,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/3ae9ece1e174c068f7ba03d00e47f39b",
+            "https://cf.shopee.vn/file/f8088235e23ca5af3e9bfa884078ca7b",
+            "https://cf.shopee.vn/file/26043e0080de2c34dc9f25dcc015a211",
+            "https://cf.shopee.vn/file/75dbdbdb131d1251042c42f98103d782",
+            "https://cf.shopee.vn/file/351b500a13a25344a2f923cf03233512",
+            "https://cf.shopee.vn/file/43283dd0300764f72e195aab7972c2d5",
+            "https://cf.shopee.vn/file/1f930b8256d2129323c9406135ef8321",
+            "https://cf.shopee.vn/file/2d897f297ca9d93a1becab2e4eead7e1"
+          ],
+          "name": "Màu sắc",
+          "options": [
+            "Xám Trắng Nỉ",
+            "Đen Nỉ",
+            "Đen da cá",
+            "Xám đen Nỉ",
+            "Xám đen da cá",
+            "Xanh đen Nỉ",
+            "Xanh đen da cá",
+            "Xám trắng da cá"
+          ],
+          "properties": [],
+          "type": 0
+        },
+        {
+          "images": [],
+          "name": "Kích cỡ",
+          "options": ["S", "M", "L", "XL", "XXL"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 47829
+    },
+    {
+      "add_on_deal_info": null,
+      "brand": "No Brand",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 1427,
+      "ctime": 1547914447,
+      "currency": "₫",
+      "discount": "46%",
+      "flag": 2,
+      "historical_sold": 10680,
+      "image": "https://cf.shopee.vn/file/265eead55e8a72f54df7ebb8cc843123_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/265eead55e8a72f54df7ebb8cc843123",
+        "https://cf.shopee.vn/file/d8a16df92ecbe62514c2630f88e71b18",
+        "https://cf.shopee.vn/file/e021bfa9c97686914cf9ede371f5b8e7",
+        "https://cf.shopee.vn/file/ab34342af55137b5fc516425e34a452b",
+        "https://cf.shopee.vn/file/82daac3bfc3f2d080fdcb0915452f6b2",
+        "https://cf.shopee.vn/file/9ff6056d4f59415ad73a6637a22caa08",
+        "https://cf.shopee.vn/file/89ad29d9ca45cf371fbc8dc01433e6fa",
+        "https://cf.shopee.vn/file/bc265ce06af3e02a20f8af029309fb9f",
+        "https://cf.shopee.vn/file/e2f4c69203d675fcda5a69c003a128a7"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [1427, 7, 7, 16, 59, 1338],
+        "rating_star": 4.9
+      },
+      "item_id": 1852999068,
+      "liked_count": 1318,
+      "name": "Mũ Len Hàn Quốc  Beanie Nhiều Màu ( Sỉ Tận Gốc )",
+      "price": 1000000000,
+      "price_before_discount": 1500000000,
+      "price_max": 1500000000,
+      "price_max_before_discount": 2800000000,
+      "price_min": 1000000000,
+      "price_min_before_discount": 1500000000,
+      "raw_discount": 46,
+      "shop_location": "Hà Nội",
+      "shop_id": 17330949,
+      "show_discount": 46,
+      "sold": 3162,
+      "status": 1,
+      "stock": 110387,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/8c76a42a6a6fc5e6321a687e47b0ac96",
+            "https://cf.shopee.vn/file/1f83e33572f172340c361520b94e5afa",
+            "https://cf.shopee.vn/file/a9d2fa548a830127cb3926ed00f997b0",
+            "https://cf.shopee.vn/file/f251689cdafed39fd84935ff74fc5b26",
+            "https://cf.shopee.vn/file/1d1204d3aff99cd06f8682b30e810bbc",
+            "https://cf.shopee.vn/file/3de4218128a546997a8175446a2a3908",
+            "https://cf.shopee.vn/file/9f9819a9d6c9a0a4c800e175b5e12806",
+            "https://cf.shopee.vn/file/37611d6549e7389da2583277bc1fc360",
+            "https://cf.shopee.vn/file/231c2a78da87d3c1980fe02cbff668db",
+            "https://cf.shopee.vn/file/276e53b5d1169d5ca7526b581832252c",
+            "https://cf.shopee.vn/file/0e94d310a639411a50849c4b178c1a04",
+            "https://cf.shopee.vn/file/127160ca0dc022d2de1c46c3f653bc7a",
+            "https://cf.shopee.vn/file/411fa9305672368e9723be68ca7d8339",
+            "https://cf.shopee.vn/file/e15846b0e24f93b44c2e2eaca7f2a624",
+            "https://cf.shopee.vn/file/6f85d0983d789d6b5d164dc99c35ff89",
+            "https://cf.shopee.vn/file/491b943c77bedf55850b0cc4583aae3f",
+            "https://cf.shopee.vn/file/6cff2746a9e3579a3aeefb9753cf5c6e",
+            "https://cf.shopee.vn/file/0ec951efe4e16b8c3ce593c77fcbd460",
+            "https://cf.shopee.vn/file/9791f3dd7af89e9e510c0eb5a59b20eb",
+            "https://cf.shopee.vn/file/c39819aa66cc5b0a78c26ac20c08ad33"
+          ],
+          "name": "Màu sắc",
+          "options": [
+            "Trắng",
+            "Đen",
+            "Xanh dương",
+            "Đỏ tươi",
+            "Đỏ đô",
+            "Xanh rêu",
+            "vàng",
+            "Cam",
+            "Xám",
+            "xanh than",
+            "Xanh nõn",
+            "Tím đậm",
+            "Tím nhạt",
+            "Xanh cô ban",
+            "Hồng Nhạt",
+            "Be",
+            "Nâu.",
+            "Hồng Đậm.",
+            "Xám đậm",
+            "1 mũ mini ngẫu nhiên"
+          ],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 51564
+    },
+    {
+      "add_on_deal_info": null,
+      "brand": "No Brand",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 466,
+      "ctime": 1588500472,
+      "currency": "₫",
+      "discount": "38%",
+      "flag": 2,
+      "historical_sold": 1610,
+      "image": "https://cf.shopee.vn/file/db0b1f12b210fd327df607e4af2b8c44_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/5a187cfcf5854f235e0fbc4f44c1698b",
+        "https://cf.shopee.vn/file/3d1e198c1201edf7a6e2c98590371847",
+        "https://cf.shopee.vn/file/199eeaa2235438b07da33f5af3a9d636",
+        "https://cf.shopee.vn/file/2b7d30113e2e8278e81c0cfb314da85a",
+        "https://cf.shopee.vn/file/ae3c379409ea7b11ac5ecacfc0aac655",
+        "https://cf.shopee.vn/file/553962fb5ac449d81e483542025a3b04",
+        "https://cf.shopee.vn/file/da8d57944c7f7effb0ed901b89257553",
+        "https://cf.shopee.vn/file/911302c07bbc8643413a6f16a6cc0bad"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [466, 4, 1, 6, 5, 450],
+        "rating_star": 4.9
+      },
+      "item_id": 7532423958,
+      "liked_count": 414,
+      "name": "Nhẫn Nam Thời Trang 22316",
+      "price": 2040000000,
+      "price_before_discount": 3300000000,
+      "price_max": 2040000000,
+      "price_max_before_discount": 3300000000,
+      "price_min": 2040000000,
+      "price_min_before_discount": 3300000000,
+      "raw_discount": 38,
+      "shop_location": "Nước ngoài",
+      "shop_id": 150121433,
+      "show_discount": 38,
+      "sold": 318,
+      "status": 1,
+      "stock": 4735,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/2b7d30113e2e8278e81c0cfb314da85a",
+            "https://cf.shopee.vn/file/ae3c379409ea7b11ac5ecacfc0aac655"
+          ],
+          "name": "color",
+          "options": ["with diamond", "no drill"],
+          "properties": [],
+          "type": 0
+        },
+        {
+          "images": [],
+          "name": "size",
+          "options": ["6", "7", "8", "9"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 16285
+    },
+    {
+      "add_on_deal_info": {
+        "add_on_deal_id": 1269679,
+        "add_on_deal_label": "Mua Kèm Deal Sốc"
+      },
+      "brand": "No Brand",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 2807,
+      "ctime": 1582535753,
+      "currency": "₫",
+      "discount": "10%",
+      "flag": 2,
+      "historical_sold": 7367,
+      "image": "https://cf.shopee.vn/file/fb42a4c29a8eb190010e093344525cb7_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/fb42a4c29a8eb190010e093344525cb7",
+        "https://cf.shopee.vn/file/3098f52400a36793080e0ce4f11cdd37",
+        "https://cf.shopee.vn/file/2211b404e1239fda08136ece956e5608",
+        "https://cf.shopee.vn/file/aea8d6a22437456dbed1519efdd182d2",
+        "https://cf.shopee.vn/file/f26250f4c64b722278dec546c3fa4b7e",
+        "https://cf.shopee.vn/file/5b311e015ca777455fba59c06c99fe90",
+        "https://cf.shopee.vn/file/aefd4ffc84f49097cb435f651df86283",
+        "https://cf.shopee.vn/file/df10da967199bfd509239216403eef63",
+        "https://cf.shopee.vn/file/763c7e9fab667a7b16a2ab45914db2fa"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [2807, 11, 8, 35, 72, 2681],
+        "rating_star": 4.9
+      },
+      "item_id": 6917781453,
+      "liked_count": 3340,
+      "name": "Áo Thun Phản Quang Gấu XX Cotton 75% Form Rộng Unisex Nam Nữ Đẹp",
+      "price": 9900000000,
+      "price_before_discount": 11000000000,
+      "price_max": 9900000000,
+      "price_max_before_discount": 11000000000,
+      "price_min": 9900000000,
+      "price_min_before_discount": 11000000000,
+      "raw_discount": 10,
+      "shop_location": "TP. Hồ Chí Minh",
+      "shop_id": 94065732,
+      "show_discount": 10,
+      "sold": 1991,
+      "status": 1,
+      "stock": 26106,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/8a25cec9c6c2dfc1b4048b64bc020390",
+            "https://cf.shopee.vn/file/3098f52400a36793080e0ce4f11cdd37",
+            "https://cf.shopee.vn/file/21a60bbb44339bd41b883e685796db1f",
+            "https://cf.shopee.vn/file/f26250f4c64b722278dec546c3fa4b7e",
+            "https://cf.shopee.vn/file/5b311e015ca777455fba59c06c99fe90",
+            "https://cf.shopee.vn/file/aefd4ffc84f49097cb435f651df86283",
+            "https://cf.shopee.vn/file/df10da967199bfd509239216403eef63",
+            "https://cf.shopee.vn/file/763c7e9fab667a7b16a2ab45914db2fa"
+          ],
+          "name": "Màu Sắc",
+          "options": [
+            "Đen",
+            "Đen7mau",
+            "Trang7mau",
+            "Tim7mau",
+            "Nghe7mau",
+            "Hong7mau",
+            "Bien7mau",
+            "Cam7mau"
+          ],
+          "properties": [],
+          "type": 0
+        },
+        {
+          "images": [],
+          "name": "size",
+          "options": ["Size L", "Size XL", "Size XXL", "Size XXXL"],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 68808
+    },
+    {
+      "add_on_deal_info": {
+        "add_on_deal_id": 1264155,
+        "add_on_deal_label": "Mua Kèm Deal Sốc",
+        "sub_type": 0
+      },
+      "brand": "No Brand",
+      "bundle_deal_info": null,
+      "category_id": 78,
+      "cmt_count": 1426,
+      "ctime": 1565795059,
+      "currency": "₫",
+      "discount": "50%",
+      "flag": 2,
+      "historical_sold": 3075,
+      "image": "https://cf.shopee.vn/file/117759b27d4904ec4367241c0898b8b7_tn",
+      "image_overlay": "https://cf.shopee.vn/file/2c1e846120cefebd49e8ba45acd2d100",
+      "images": [
+        "https://cf.shopee.vn/file/117759b27d4904ec4367241c0898b8b7",
+        "https://cf.shopee.vn/file/360dda0283d629175c3bb4ef08eeb33b",
+        "https://cf.shopee.vn/file/4c46ac8189900f8e6dbf5cbde0bd1fd7",
+        "https://cf.shopee.vn/file/8b283f74fee54e53de41dde6b798c612",
+        "https://cf.shopee.vn/file/805330805785c9f2b5ba9103d564d8b2",
+        "https://cf.shopee.vn/file/11bd4dbf5005612b263e2fb032a51469",
+        "https://cf.shopee.vn/file/47ab10ef48721521ad85e0669d8dfcf2",
+        "https://cf.shopee.vn/file/a23d99fac3a81d8d2a43360702cc3628",
+        "https://cf.shopee.vn/file/6f047bac32ba6d42eec8cebbaacfd9ac"
+      ],
+      "label": "Yêu thích",
+      "rating": {
+        "rating_count": [1426, 6, 2, 24, 95, 1299],
+        "rating_star": 4.8
+      },
+      "item_id": 2658707095,
+      "liked_count": 9006,
+      "name": "< FREESHIP > ÁO KHOÁC KAKI HỘP NAM NỮ HÌNH THẬT CÓ TÚI TRONG HÀNG BAO ĐẸP, BAO CHẤT  FORM 80KG",
+      "price": 15000000000,
+      "price_before_discount": 30000000000,
+      "price_max": 15900000000,
+      "price_max_before_discount": 30000000000,
+      "price_min": 15000000000,
+      "price_min_before_discount": 30000000000,
+      "raw_discount": 50,
+      "shop_location": "TP. Hồ Chí Minh",
+      "shop_id": 48322160,
+      "show_discount": 50,
+      "sold": 807,
+      "status": 1,
+      "stock": 10826,
+      "tier_variations": [
+        {
+          "images": [
+            "https://cf.shopee.vn/file/8b283f74fee54e53de41dde6b798c612",
+            "https://cf.shopee.vn/file/a392d961e4cdbc413052206df7d324a7"
+          ],
+          "name": "MÀU",
+          "options": ["Đen", "Vàng"],
+          "properties": [],
+          "type": 0
+        },
+        {
+          "images": [],
+          "name": "Size",
+          "options": [
+            "M (45-55kg)",
+            "L (55-65kg)",
+            "XL (65-75kg)",
+            "XXL (75-85kg)"
+          ],
+          "properties": [],
+          "type": 0
+        }
+      ],
+      "view_count": 61341
+    }
+  ]
+}

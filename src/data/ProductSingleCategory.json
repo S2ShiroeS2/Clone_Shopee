@@ -1,0 +1,85 @@
+{
+    "ListCategory": [{
+        "nameCategory": "Bách hóa online",
+        "nameSingleCategory": [
+            "Ăn vặt& Bánh kẹo",
+            "Đồ uống",
+            "Đồ hộp và Đóng gói",
+            "Nấu ăn & Làm bánh",
+            "Đậu và hạt",
+            "Đặc sản việt",
+            "Quà biếu",
+            "Đồ uống có cồn",
+            "Sữa"
+        ]
+    }],
+    "ListLocation": [{
+        "locationTitle": "Nơi bán",
+        "nameLocation": [
+            "TP. Hồ Chí Minh",
+            "Hà Nội",
+            "Thái Nguyên",
+            "Vĩnh Phúc",
+            "Hải Phòng",
+            "Đồng Nai",
+            "Hưng Yên",
+            "Bình Dương",
+            "Bắc Ninh",
+            "Đà Nẵng",
+            "Quảng Ninh",
+            "Hải Dương",
+            "Nam Định",
+            "Cần Thơ",
+            "Phú Thọ",
+            "Bà Rịa-Vũng Tàu",
+            "Đăk-Lắk",
+            "Thanh Hóa",
+            "Thái Bình",
+            "Nước Ngoài"
+        ]
+    }],
+    "ListUnitTransport": [{
+        "unitTransportTitle": "Đơn vị vận chuyển",
+        "nameUnitTransport": [
+            "Shopee Express",
+            "NowShip",
+            "Ninja Van",
+            "J&T Express",
+            "Giao hàng tiết kiệm",
+            "Giao hàng nhanh",
+            "BEST Express",
+            "Viettel Post",
+            "VNPost Nhanh",
+            "VNPost Tiết Kiệm",
+            "GrapExpress"
+        ]
+    }],
+    "ListTypeShop": [{
+        "typeShopTitle": "Loại Shop",
+        "nameTypeShop": [
+            "Shopee Mall",
+            "Shop yêu thích",
+            "Xử lí đơn hàng bởi Shoppe"
+        ]
+    }],
+    "ListActiveProduct": [{
+        "activeProductTitle": "Tình trạng ok",
+        "nameActiveProduct": [
+            "Sản phẩm mới",
+            "Sản phẩm dã dùng"
+        ]
+    }],
+    "ListService": [{
+        "serviceTitle": "Dịch vụ và khuyến mãi",
+        "nameService": [
+            "Freeship Xtra",
+            "Hoàn xu Xtra",
+            "Hoàn xu Xtra",
+            "Miễn phí vận chuyển",
+            "Rẻ vô địch",
+            "Hàng có sẵn",
+            "Mua giá bán sỉ/lẻ",
+            "Có video"
+        ]
+    }]
+}

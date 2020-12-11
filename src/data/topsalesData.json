@@ -1,0 +1,58 @@
+{
+    "topsalesData": {
+        "heading": {
+            "title": "TOP SẢN PHẨM BÁN CHẠY",
+            "seemore": "Xem thêm",
+            "seemore__href": "#"
+        },
+        "content": {
+            "items": [{
+                    "id": 1,
+                    "url_img": "https://cf.shopee.vn/file/d8bdba4c8a376b0e2af7830d8955f622",
+                    "title": "Áo thun",
+                    "price": 900000000,
+                    "href": "#"
+                },
+                {
+                    "id": 2,
+                    "url_img": "https://cf.shopee.vn/file/589785a92ff9b6f27cc3f0bacd497e64",
+                    "title": "Quần",
+                    "price": 700000000,
+                    "href": "#"
+                },
+                {
+                    "id": 3,
+                    "url_img": "https://cf.shopee.vn/file/2d7f98baab24c338ae39187e77768561",
+                    "title": "Phụ kiện",
+                    "price": 400000000,
+                    "href": "#"
+                },
+                {
+                    "id": 4,
+                    "url_img": "https://cf.shopee.vn/file/94f56ccbf0948f97288b149aaa720762",
+                    "title": "Đồ lót - Đồ mặc nhà",
+                    "price": 700000000,
+                    "href": "#"
+                },
+                {
+                    "id": 5,
+                    "url_img": "https://cf.shopee.vn/file/feaae6e0f9601553333a0324693a7317",
+                    "title": "Ba lô",
+                    "price": 500000000,
+                    "href": "#"
+                },
+                {
+                    "id": 6,
+                    "url_img": "https://cf.shopee.vn/file/35bb54221f99a5e681cd996b58f30c8a",
+                    "title": "Áo sơ mi",
+                    "price": 1900000000,
+                    "href": "#"
+                }
+            ],
+            "seemore": {
+                "href": "#",
+                "text": "Xem thêm"
+            }
+        }
+    }
+}

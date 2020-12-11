@@ -1,0 +1,266 @@
+{
+    "customer": {
+        "id": 1,
+        "title": "CHĂM SÓC KHÁCH HÀNG",
+        "items": [{
+                "id": 1,
+                "title": "Trung tâm trợ giúp",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Shopee blog",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Shopee mall",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Hướng dẫn mua hàng",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Hướng dẫn bán hàng",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Thanh toán",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Shopee xu",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Vận chuyển",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Trả hàng & hoàn tiền",
+                "url": "#"
+            },
+            {
+                "id": 10,
+                "title": "Chăm sóc khách hàng",
+                "url": "#"
+            },
+            {
+                "id": 11,
+                "title": "Chính sách bảo hành",
+                "url": "#"
+            }
+        ]
+    },
+    "about": {
+        "id": 2,
+        "title": "VỀ SHOPEE",
+        "items": [{
+                "id": 1,
+                "title": "Giới thiệu về shopee Việt Nam",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Tuyển dụng",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Điều khoản shopee",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Chính sách bảo mật",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Chính hãng",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Kênh người bán",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Flash sale",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Chương trình tiếp thị liên kết shopee",
+                "url": "#"
+            },
+            {
+                "id": 9,
+                "title": "Liên hệ với truyền thông",
+                "url": "#"
+            }
+        ]
+    },
+    "payment": {
+        "id": 3,
+        "title": "THANH TOÁN",
+        "items": [{
+                "id": 1,
+                "png": "footer-vn-visa-png"
+            },
+            {
+                "id": 2,
+                "png": "footer-vn-mastercard-png"
+
+            },
+            {
+                "id": 3,
+                "png": "footer-vn-amex-png"
+            },
+            {
+                "id": 4,
+                "png": "footer-vn-vn_cod_footer-png"
+
+            },
+            {
+                "id": 5,
+                "png": "footer-vn-jcb-png"
+            },
+            {
+                "id": 6,
+                "png": "footer-vn-vn_installment_footer-png"
+
+            },
+            {
+                "id": 7,
+                "png": "footer-vn-air-pay-png"
+            }
+        ]
+    },
+    "transport": {
+        "id": 4,
+        "title": "ĐƠN VỊ VẬN CHUYỂN",
+        "items": [{
+                "id": 1,
+                "png": "footer-vn-shopee-express-png"
+            },
+            {
+                "id": 2,
+                "png": "footer-vn-ghtk-png"
+            },
+            {
+                "id": 3,
+                "png": "footer-vn-ghn-png"
+            },
+            {
+                "id": 4,
+                "png": "footer-vn-viettel_post-png"
+            },
+            {
+                "id": 5,
+                "png": "footer-vn-vnpost-png"
+            },
+            {
+                "id": 6,
+                "png": "footer-vn-vn_jnt_footer-png"
+            },
+            {
+                "id": 7,
+                "png": "footer-vn-grab_express-png"
+            },
+            {
+                "id": 8,
+                "png": "footer-vn-vn_now-png"
+            },
+            {
+                "id": 9,
+                "png": "footer-vn-ninja-van-png"
+            },
+            {
+                "id": 10,
+                "png": "footer-vn-best-express-png"
+            }
+        ]
+    },
+
+    "network": {
+        "id": 4,
+        "title": "THEO DÕI CHÚNG TÔI TRÊN",
+        "items": [{
+                "id": 1,
+                "title": "Facebook",
+                "url": "#",
+                "icon": "fa fa-facebook-official"
+            },
+            {
+                "id": 2,
+                "title": "Instagram",
+                "url": "#",
+                "icon": "fa fa-instagram"
+            },
+            {
+                "id": 3,
+                "title": "linkedln",
+                "url": "#",
+                "icon": "fa fa-linkedin-square"
+            }
+        ]
+    },
+    "download": {
+        "id": 5,
+        "title": "TẢI ỨNG DỤNG SHOPEE NGAY THÔI"
+    },
+    "categorybot": {
+        "paragraphleft": "© 2020 Shopee. Tất cả các quyền được bảo lưu.",
+        "title": "Quốc gia & khu vực:",
+        "nations": [{
+                "id": 1,
+                "title": "Singapore",
+                "url": "#"
+            },
+            {
+                "id": 2,
+                "title": "Indonesia",
+                "url": "#"
+            },
+            {
+                "id": 3,
+                "title": "Đài Loan",
+                "url": "#"
+            },
+            {
+                "id": 4,
+                "title": "Thái Lan",
+                "url": "#"
+            },
+            {
+                "id": 5,
+                "title": "Malaysia",
+                "url": "#"
+            },
+            {
+                "id": 6,
+                "title": "Việt Nam",
+                "url": "#"
+            },
+            {
+                "id": 7,
+                "title": "Philipine",
+                "url": "#"
+            },
+            {
+                "id": 8,
+                "title": "Brazil",
+                "url": "#"
+            }
+        ]
+    }
+}

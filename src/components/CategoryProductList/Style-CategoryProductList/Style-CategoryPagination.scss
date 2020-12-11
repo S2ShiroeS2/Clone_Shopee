@@ -1,0 +1,44 @@
+.anphabetical-wrap {
+    margin-top: 2.5rem;
+    color: red;
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    flex-direction: row;
+    .anphabetical__letter-wrapp {
+        list-style: none;
+        margin: 8px;
+        &:hover {
+            cursor: pointer;
+        }
+        .anphabetical__letter {
+            padding: 0.5rem;
+        }
+    }
+}
+
+.alphabetical-list-of-category {
+    .list-of-category-in-letter {
+        &:hover a {
+            text-decoration: none;
+            list-style: none;
+        }
+        .letter-categoryname {
+            color: red;
+        }
+        .category-wrap {
+            display: flex;
+            flex-flow: wrap;
+            a {
+                color: #00000073;
+            }
+            .category-sub {
+                width: 25%;
+                color: #00000070;
+                &:hover {
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}

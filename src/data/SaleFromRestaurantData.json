@@ -1,0 +1,39 @@
+{
+  "listSale": [
+    {
+      "collection_id": 455565,
+      "collection_title": "Áo thu đông Sale 50%",
+      "image": "https://cf.shopee.vn/file/059fbc16043a974f69ad093f20a9e07d",
+      "price": 2900000000,
+      "url": "https://shopee.vn/%C3%81o-thu-%C4%91%C3%B4ng-Sale-50--col.455565"
+    },
+    {
+      "collection_id": 455566,
+      "collection_title": "Giảm đến 50%",
+      "image": "https://cf.shopee.vn/file/061f7a40118d7d2ae18c76c86645e30e",
+      "price": 1250000000,
+      "url": "https://shopee.vn/Gi%E1%BA%A3m-%C4%91%E1%BA%BFn-50--col.455566"
+    },
+    {
+      "collection_id": 455567,
+      "collection_title": "ƯU ĐÃI SỐC 50%",
+      "image": "https://cf.shopee.vn/file/1b0781ddfb92ba9a4fc2d7387cfd2e8e",
+      "price": 16500000000,
+      "url": "https://shopee.vn/%C6%AFU-%C4%90%C3%83I-S%E1%BB%90C-50--col.455567"
+    },
+    {
+      "collection_id": 455568,
+      "collection_title": "Balo siêu sale",
+      "image": "https://cf.shopee.vn/file/73f6a916ec216d2b0cbc24dd8f4eec82",
+      "price": 1400000000,
+      "url": "https://shopee.vn/Balo-si%C3%AAu-sale-col.455568"
+    },
+    {
+      "collection_id": 455569,
+      "collection_title": "ƯU ĐÃI SALE SỐC 50%",
+      "image": "https://cf.shopee.vn/file/5e69b5d33ada1a81be9f60356ef6e269",
+      "price": 1800000000,
+      "url": "https://shopee.vn/%C6%AFU-%C4%90%C3%83I-SALE-S%E1%BB%90C-50--col.455569"
+    }
+  ]
+}

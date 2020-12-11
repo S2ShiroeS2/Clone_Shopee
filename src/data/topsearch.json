@@ -1,0 +1,184 @@
+{
+    "top": {
+        "title": "TÌM KIẾM HÀNG ĐẦU",
+        "seemore": "Xem tất cả",
+        "url": "#"
+    },
+    "content": {
+        "items": [{
+                "id": 1,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/5766f53dd9e5a46d7e8663a62028934a_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/fba1f0f30c0dd5652918f0c8a04e412a_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/343db576ecbc7ff077b380468a21a4a0_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 96k+/tháng",
+                "title": "Tai nghe Bluetooth"
+            },
+            {
+                "id": 2,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/65ac6324d4970b6866b1d00523e8e435_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/ab3180bd04f335761e7944d01835b477_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/7b26f89449fa34ee8cbfe5d142603707_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 132k+/tháng",
+                "title": "Son Black Rouge"
+            },
+            {
+                "id": 3,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/5766f53dd9e5a46d7e8663a62028934a_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/fba1f0f30c0dd5652918f0c8a04e412a_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/343db576ecbc7ff077b380468a21a4a0_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 96k+/tháng",
+                "title": "Tai nghe Bluetooth"
+            },
+            {
+                "id": 4,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/5766f53dd9e5a46d7e8663a62028934a_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/fba1f0f30c0dd5652918f0c8a04e412a_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/343db576ecbc7ff077b380468a21a4a0_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 96k+/tháng",
+                "title": "Tai nghe Bluetooth"
+            },
+            {
+                "id": 5,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/65ac6324d4970b6866b1d00523e8e435_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/ab3180bd04f335761e7944d01835b477_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/7b26f89449fa34ee8cbfe5d142603707_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 132k+/tháng",
+                "title": "Son Black Rouge"
+            },
+            {
+                "id": 6,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/5766f53dd9e5a46d7e8663a62028934a_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/fba1f0f30c0dd5652918f0c8a04e412a_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/343db576ecbc7ff077b380468a21a4a0_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 96k+/tháng",
+                "title": "Tai nghe Bluetooth"
+            },
+            {
+                "id": 7,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/5766f53dd9e5a46d7e8663a62028934a_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/fba1f0f30c0dd5652918f0c8a04e412a_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/343db576ecbc7ff077b380468a21a4a0_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 96k+/tháng",
+                "title": "Tai nghe Bluetooth"
+            },
+            {
+                "id": 8,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/65ac6324d4970b6866b1d00523e8e435_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/ab3180bd04f335761e7944d01835b477_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/7b26f89449fa34ee8cbfe5d142603707_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 132k+/tháng",
+                "title": "Son Black Rouge"
+            },
+            {
+                "id": 9,
+                "imgs": [{
+                        "id": 1,
+                        "url_img": "https://cf.shopee.vn/file/5766f53dd9e5a46d7e8663a62028934a_tn"
+                    },
+                    {
+                        "id": 2,
+                        "url_img": "https://cf.shopee.vn/file/fba1f0f30c0dd5652918f0c8a04e412a_tn"
+                    },
+                    {
+                        "id": 3,
+                        "url_img": "https://cf.shopee.vn/file/343db576ecbc7ff077b380468a21a4a0_tn"
+                    }
+                ],
+                "url_link": "#",
+                "alt": "Bán 96k+/tháng",
+                "title": "Tai nghe Bluetooth"
+            }
+        ],
+        "seemore": {
+            "href": "#"
+        }
+    }
+}
